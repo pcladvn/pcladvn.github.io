@@ -73,7 +73,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://pcladvn.github.io/kamerscherm1-6-22/annotations/e3981e7d0216ae8482dc1f7d08baedf3.json",
+        "@id": "https://pcladvn.github.io/annonatate/annotations/1dac03aa-b522-4fa3-9034-288f339632de-list.json",
         "@type": "sc:AnnotationList",
         "label": "My fantastic annotations"
     }
@@ -128,6 +128,13 @@
 							"on": "http://ec3f0cf7-9bd2-49cf-831c-e7cddaead9f6"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://pcladvn.github.io/annonatate/annotations/ec3f0cf7-9bd2-49cf-831c-e7cddaead9f6-list.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+],
 					"related": ""
 				},
 				{
@@ -178,6 +185,13 @@
 							"on": "http://b0673134-beb7-496e-bdbc-b1f5f86c2721"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://pcladvn.github.io/annonatate/annotations/b0673134-beb7-496e-bdbc-b1f5f86c2721-list.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+],
 					"related": ""
 				},
 				{
@@ -228,6 +242,13 @@
 							"on": "http://49ab30c4-b83d-41a2-9edc-a772f8086600"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://pcladvn.github.io/annonatate/annotations/49ab30c4-b83d-41a2-9edc-a772f8086600-list.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+],
 					"related": ""
 				},
 				{
@@ -278,6 +299,13 @@
 							"on": "http://90b6c3e5-5c5c-4131-8ea3-a9e8d6ec92e9"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://pcladvn.github.io/annonatate/annotations/90b6c3e5-5c5c-4131-8ea3-a9e8d6ec92e9-list.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+],
 					"related": ""
 				},
 				{
@@ -328,6 +356,13 @@
 							"on": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://pcladvn.github.io/annonatate/annotations/ccd284e7-ed5a-409e-887d-1b56115d4059-list.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+],
 					"related": ""
 				},
 				{
@@ -378,6 +413,13 @@
 							"on": "http://39a78aa2-4c35-4906-95d8-0ccdc9abd550"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://pcladvn.github.io/annonatate/annotations/39a78aa2-4c35-4906-95d8-0ccdc9abd550-list.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+],
 					"related": ""
 				},
 				{
@@ -428,6 +470,13 @@
 							"on": "http://e8b978b6-43ac-4843-b839-0edeaca92990"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://pcladvn.github.io/annonatate/annotations/e8b978b6-43ac-4843-b839-0edeaca92990-list.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+],
 					"related": ""
 				},
 				{
@@ -478,6 +527,13 @@
 							"on": "http://2b964ed7-938f-4028-b523-caf520ecab5b"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://pcladvn.github.io/annonatate/annotations/2b964ed7-938f-4028-b523-caf520ecab5b-list.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+],
 					"related": ""
 				},
 				{
@@ -528,6 +584,13 @@
 							"on": "http://fb86f711-0c81-4427-9e21-9c456af1aff0"
 						}
 					],
+					"otherContent": [
+    {
+        "@id": "https://pcladvn.github.io/annonatate/annotations/fb86f711-0c81-4427-9e21-9c456af1aff0-list.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+],
 					"related": ""
 				}
 			]
