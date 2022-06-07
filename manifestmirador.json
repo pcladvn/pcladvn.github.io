@@ -83,7 +83,7 @@
 				{
 					"@id": "http://ec3f0cf7-9bd2-49cf-831c-e7cddaead9f6",
 					"@type": "sc:Canvas",
-					"label": "R2",
+					"label": "Paneel 2 (recto)",
 					"height": 25825,
 					"width": 5014,
 					"images": [
@@ -140,7 +140,7 @@
 				{
 					"@id": "http://b0673134-beb7-496e-bdbc-b1f5f86c2721",
 					"@type": "sc:Canvas",
-					"label": "R3",
+					"label": "Paneel 3 (recto)",
 					"height": 23678,
 					"width": 4802,
 					"images": [
@@ -197,7 +197,7 @@
 				{
 					"@id": "http://49ab30c4-b83d-41a2-9edc-a772f8086600",
 					"@type": "sc:Canvas",
-					"label": "R4",
+					"label": "Paneel 4 (recto)",
 					"height": 24749,
 					"width": 4756,
 					"images": [
@@ -254,7 +254,7 @@
 				{
 					"@id": "http://90b6c3e5-5c5c-4131-8ea3-a9e8d6ec92e9",
 					"@type": "sc:Canvas",
-					"label": "R5",
+					"label": "Paneel 5 (recto)",
 					"height": 25211,
 					"width": 4953,
 					"images": [
@@ -311,7 +311,7 @@
 				{
 					"@id": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
 					"@type": "sc:Canvas",
-					"label": "V1",
+					"label": "Paneel 6 (verso)",
 					"height": 25273,
 					"width": 5156,
 					"images": [
@@ -368,7 +368,7 @@
 				{
 					"@id": "http://39a78aa2-4c35-4906-95d8-0ccdc9abd550",
 					"@type": "sc:Canvas",
-					"label": "V2",
+					"label": "Paneel 7 (verso)",
 					"height": 24249,
 					"width": 4708,
 					"images": [
@@ -425,7 +425,7 @@
 				{
 					"@id": "http://e8b978b6-43ac-4843-b839-0edeaca92990",
 					"@type": "sc:Canvas",
-					"label": "V3",
+					"label": "Paneel 8 (verso)",
 					"height": 25830,
 					"width": 5034,
 					"images": [
@@ -482,7 +482,7 @@
 				{
 					"@id": "http://2b964ed7-938f-4028-b523-caf520ecab5b",
 					"@type": "sc:Canvas",
-					"label": "V4",
+					"label": "Paneel 9 (verso)",
 					"height": 25227,
 					"width": 4670,
 					"images": [
@@ -539,7 +539,7 @@
 				{
 					"@id": "http://fb86f711-0c81-4427-9e21-9c456af1aff0",
 					"@type": "sc:Canvas",
-					"label": "V5",
+					"label": "Paneel 10 (verso)",
 					"height": 25489,
 					"width": 4876,
 					"images": [
