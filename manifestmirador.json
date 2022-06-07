@@ -2,7 +2,7 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://5756701c-dd18-44f2-bca5-d8c7d40bb073",
 	"@type": "sc:Manifest",
-	"label": "[Click to edit label]",
+	"label": "Kamerscherm Cyriel Verschaeve",
 	"metadata": [],
 	"description": [
 		{
@@ -11,7 +11,7 @@
 		}
 	],
 	"license": "https://creativecommons.org/licenses/by/3.0/",
-	"attribution": "[Click to edit attribution]",
+	"attribution": "ADVN | archief voor nationale bewegingen. Gepubliceerd met vriendelijke toestemming van eigenaar dhr & mevr. Guido Steenkiste – Pil-Duthoo Gerarda, p.a. Nieuwstraat 34 te 8690 Alveringem.",
 	"sequences": [
 		{
 			"@id": "http://1bac6511-a445-4287-af3a-acb19c0f149c",
@@ -26,7 +26,7 @@
 				{
 					"@id": "http://1dac03aa-b522-4fa3-9034-288f339632de",
 					"@type": "sc:Canvas",
-					"label": "R1",
+					"label": "Paneel 1 (recto)",
 					"height": 26585,
 					"width": 5117,
 					"images": [
