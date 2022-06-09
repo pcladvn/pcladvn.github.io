@@ -1593,6 +1593,36 @@
         "source": "http://b0673134-beb7-496e-bdbc-b1f5f86c2721"
     },
     "type": "Annotation"
+    },{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+   "body": [
+{
+"created": "2022-06-08T16:20:20.218Z",
+"creator": {
+"id": "pcladvn",
+"name": "pcladvn"
+},
+"modified": "2022-06-08T16:37:10.752Z",
+"purpose": "identifying",
+"type": "TextualBody",
+            "value": "296\nDe Maagd als de vrouw van de Apocalyps \nschilderij Peter Paul Rubens, c. 1623-1624",
+        }
+    ],
+    "id": "46e05821-c2c8-4540-9e94-e93c45c46c63.json",
+    "motivation": "commenting"
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=180.50672912597656,21432.55859375,1428.049301147461,2134.390625"
+        },
+        "source": "http://b0673134-beb7-496e-bdbc-b1f5f86c2721",
+    },
+“type”: “Annotation”
 },{
     "type": "Annotation",
     "body": [
