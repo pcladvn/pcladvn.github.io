@@ -187,7 +187,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://pcladvn.github.io/annotatiesR3.json",
+        "@id": "https://pcladvn.github.io/annotatiesR3b.json",
         "@type": "sc:AnnotationList",
         "label": "My fantastic annotations"
     }
