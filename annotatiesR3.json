@@ -2734,36 +2734,6 @@
     "id": "46e05821-c2c8-4540-9e94-e93c45c46c63.json",
     "motivation": "commenting"
 },{
-    "type": "Annotation",
-    "body": [
-        {
-            "type": "TextualBody",
-            "value": "262\nAmazon en Centaur\nschilderij Franz von Stuck, 1912",
-            "purpose": "identifying",
-            "creator": {
-                "id": "pcladvn",
-                "name": "pcladvn"
-            },
-            "created": "2022-06-08T16:16:53.644Z",
-            "modified": "2022-06-08T16:20:38.214Z"
-        }
-    ],
-    "target": {
-        "source": "http://b0673134-beb7-496e-bdbc-b1f5f86c2721",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=225.38389587402344,11959.7138671875,2717.8099517822266,1359.6982421875"
-        },
-        "dcterms:isPartOf": {
-            "id": "https://pcladvn.github.io/manifest.json",
-            "type": "Manifest"
-        }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "c116e9a6-89f8-4b3b-8820-253b1d581e10.json",
-    "motivation": "commenting"
-},{
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
