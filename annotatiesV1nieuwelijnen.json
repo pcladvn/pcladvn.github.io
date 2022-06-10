@@ -1,0 +1,2946 @@
+
+{
+"@context": "http://iiif.io/api/presentation/3/context.json",
+"id": "https://pcladvn.github.io/annonatate/annotations/ccd284e7-ed5a-409e-887d-1b56115d4059-list",
+"type": "AnnotationPage",
+"items": [{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:52:45.532Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:55:08.048Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "473<br/>La pens\u00e9e <br/>beeldhouwwerk Auguste Rodin, 1896"
+        }
+    ],
+    "id": "f71380c9-2141-4f34-b3d7-1a9783f410bd.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1867.498779296875,1298.028076171875,758.91552734375,771.137451171875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:52:58.164Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:55:56.575Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "475<br/>Margarete en Faust<br/>silhouettekening Paul Konewka (Gestalten aus \u201cFaust\u201d), 1864, Fr. A. Ackermann\u2019s Kunstverlag, Mu\u0308nchen \u2013 fragment prentbriefkaart"
+        }
+    ],
+    "id": "cb7b0df8-e25c-471d-904b-2bfad3e0dd8e.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3865.35986328125,1155.3892822265625,867.3154296875,1056.1783447265625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "469",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T13:53:18.715Z",
+            "modified": "2022-03-21T13:53:21.418Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4289.51806640625,91.27982330322266,474.61474609375,518.9153671264648"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "00ad74aa-59c0-4337-9b3d-70a74e854e16.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:53:29.131Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:54:19.866Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "470<br/>Het laatste gebed van de christelijke martelaren<br/>schilderij Jean-Leon Gerome, 1863-83"
+        }
+    ],
+    "id": "8afb86b0-2c38-4c0f-bd5c-e734ae28690a.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1764.21875,92.43395233154297,2517.45703125,1192.4548416137695"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "471",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T13:53:35.499Z",
+            "modified": "2022-03-21T13:53:37.864Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4264.896484375,594.9547119140625,516.015625,565.2581787109375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ef72535d-92d7-410d-9d7e-fa8c757c7e73.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:58:04.777Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:54:55.809Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "472<br/>De aartsengel Michael verslaat Satan<br/>schilderij Guido Reni, 1635"
+        }
+    ],
+    "id": "cb1f6b9d-10a4-4a14-b9a7-52adfe1dc342.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=159.44305419921875,99.9802017211914,1623.5377807617188,2050.1521224975586"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:58:18.369Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:55:20.110Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "474<br/>Rozenhoedkaai Brugge<br/>ets"
+        }
+    ],
+    "id": "93cb9115-cced-4ea8-b764-7333f55f964f.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2562.7890625,1300.0108642578125,1312.51416015625,814.2843017578125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "475",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T13:58:24.385Z",
+            "modified": "2022-03-21T13:58:26.906Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3866.602783203125,1154.6494140625,892.558349609375,1074.11181640625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f0aa840b-3f3a-4fc1-bccc-322559cd579a.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:58:32.233Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-03-21T13:58:35.850Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "476"
+        }
+    ],
+    "id": "25f1f75e-b617-4510-bb83-c6eaa218bc5c.json",
+    "motivation": "commenting",
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=170.3925018310547,2089.141357421875,414.2957305908203,508.73486328125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:58:39.240Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:56:09.696Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "477<br/>Oude gevangenis aan de Pegnitz, Nuremberg<br/>gravure"
+        }
+    ],
+    "id": "2f323c05-c5e7-4483-a555-bb0216d55aa6.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=159.62060546875,2593.762939453125,450.910400390625,511.694580078125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:58:45.888Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:56:26.216Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "478<br/>SKVH - Heldenhuldezerk<br/>prentbriefkaart Joe English"
+        }
+    ],
+    "id": "f1093bcd-b17d-4456-b3a9-d07e8485fc1f.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=141.53921508789062,3107.677001953125,487.0140075683594,330.7919921875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:58:53.913Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:56:37.712Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "479<br/>Le Penseur<br/>schilderij Auguste Rodin, 1881"
+        }
+    ],
+    "id": "4f0d1337-bc73-49dc-80c2-f97727e6c46a.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=552.3213500976562,2116.572265625,626.7029418945312,1251.79052734375"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:58:59.912Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:56:56.309Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "480<br/>Cassandra (Kassandra, portrait einer Frau)<br/>beeldhouwwerk Max Klinger, 1886/95 \u2013 prentbriefkaart<br/>(Verlag Seemann Nr. 14)"
+        }
+    ],
+    "id": "9f53b7dd-2000-43d0-917c-50ac84796102.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1165.87548828125,2124.623046875,1042.5361328125,1475.12841796875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:59:06.704Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:57:19.511Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "481<br/>Sint-Wendelinus (S. Wendelinus Pastor, Gebet am Bildstock) schilderij Mattha\u0308us Schiestl \u2013<br/>prentbriefkaart"
+        }
+    ],
+    "id": "06ea94e6-fd85-4011-bedf-d8c182eed838.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2201.605224609375,2076.149658203125,611.12744140625,858.8515625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "482",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T13:59:13.904Z",
+            "modified": "2022-03-21T13:59:16.577Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=189.39129638671875,3392.1259765625,1003.4435424804688,1274.93115234375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "23fc7a7c-fe13-413d-9983-49d51d33e27b.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:59:22.457Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:57:40.302Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "483<br/>Het melkmeisje <br/>schilderij Johannes Vermeer, c. 1660"
+        }
+    ],
+    "id": "f05059e0-6882-4489-ad4e-018b88853c81.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1229.263916015625,3601.91162109375,996.074951171875,1037.38671875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:59:31.472Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:57:51.886Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "484<br/>Sint-Eustachius<br/>schilderij Albrecht Du\u0308rer, c. 1500, rechterluik binnengedeelte<br/>triptiek Paumgarten Altar<br/>(Katharinen, Nuremberg)"
+        }
+    ],
+    "id": "bf81230f-98a3-483c-bfbd-4adbc6f9b2fb.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2201.45703125,2928.727294921875,592.691162109375,1515.197509765625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:59:39.119Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:58:06.134Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "485<br/>Een kunstenaar toont zijn werk<br/>schilderij Jean Louis Ernest Meissonier, c. 1850"
+        }
+    ],
+    "id": "b9cc318b-82a2-4eeb-b4e3-f561be4f6c43.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2820.75244140625,2098.255615234375,1922.4580078125,2234.221435546875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "486",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T13:59:45.984Z",
+            "modified": "2022-03-21T13:59:50.316Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1980.2781982421875,4384.08740234375,312.8880615234375,619.79833984375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b5c08805-b20c-4c7a-ad58-adb03bb76e6d.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:59:55.560Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:58:17.326Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "487<br/>Landelijke straat in Zeeland<br/>tekening Henri Cassiers, vroege 20ste eeuw"
+        }
+    ],
+    "id": "08da33cf-880c-41ee-b9b4-250733a8f8e8.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=186.3431396484375,4635.56982421875,2090.6947021484375,959.2314453125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "488",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:00:08.776Z",
+            "modified": "2022-03-21T14:00:10.984Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2213.560791015625,4324.841796875,2485.171142578125,1640.05078125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "44f5a8f8-7eab-4d64-a797-608265816028.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:00:15.416Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:58:34.314Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "489<br/>Jonge Charles Dickens<br/>gravure"
+        }
+    ],
+    "id": "6bab5d58-2a97-45d5-a9ba-08dc71406544.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2610.759521484375,5909.849609375,417.262939453125,398.412109375"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:00:23.368Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:59:23.591Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "490<br/>Perikles<br/>beeldhouwwerk, origineel c. 430 v.C."
+        }
+    ],
+    "id": "f2518c76-8b72-447e-88dc-5139e314c2c6.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2988.66357421875,5956.04443359375,277.198974609375,540.19287109375"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:00:30.088Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:04:09.960Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "491<br/>Odysseus en Polyphemus"
+        }
+    ],
+    "id": "2d5d4f18-7d90-4281-a277-b4683735d5ab.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3241.388916015625,5951.5166015625,855.892333984375,577.53955078125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:00:36.231Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:04:36.512Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "492<br/>[Aanbidding der wijzen]"
+        }
+    ],
+    "id": "89765cfb-8fee-489b-9aa8-86775534982d.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=4071.890380859375,5887.5361328125,630.067138671875,659.5126953125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "493",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:00:42.671Z",
+            "modified": "2022-03-21T14:00:45.954Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4431.26904296875,6537.96337890625,313.2431640625,232.8681640625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "104c7646-8b6c-4aff-aa2e-c5e3630e6571.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:00:55.085Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:05:52.156Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "494<br/>De Bronstijd (L\u2019A\u0302ge d\u2019airain) <br/>beeldhouwwerk Auguste Rodin, 1877 \u2013 voorzijde"
+        }
+    ],
+    "id": "f58b8785-9f7c-4237-acc7-4c9f88a7082b.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2099.775146484375,5935.5361328125,522.880859375,1453.6142578125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:01:06.104Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:06:03.319Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "495<br/>De Bronstijd (L\u2019A\u0302ge d\u2019airain) <br/>beeldhouwwerk Auguste Rodin, 532 1877 \u2013 achterzijde"
+        }
+    ],
+    "id": "d8eecb03-547c-4bf0-ac81-8bf24735e24b.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2446.428955078125,6214.8955078125,562.5947265625,1516.173828125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:01:14.631Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:06:20.889Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "496<br/>Jupiter en Semele<br/>schilderij Peter Paul Rubens, 1636"
+        }
+    ],
+    "id": "f8897882-dc5b-4ec7-a63f-584ee277fadd.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2986.59228515625,6502.65869140625,1446.57080078125,923.3056640625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "497",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:01:33.831Z",
+            "modified": "2022-03-21T14:01:36.422Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4458.61328125,7036.75537109375,327.24072265625,358.3134765625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9843bd98-33d0-40a5-9f3b-017e8e4902b3.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:01:48.639Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:06:38.841Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "498<br/>Arhur Conan Doyle<br/>foto"
+        }
+    ],
+    "id": "23cabadd-8a80-46e6-9130-db88a60cbede.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2052.63330078125,7370.06298828125,387.699462890625,344.52294921875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "499",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:01:56.271Z",
+            "modified": "2022-03-21T14:01:58.383Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2417.9306640625,7017.22412109375,240.79931640625,722.3681640625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bedeade8-273b-4516-8609-c0149216e33d.json",
+    "motivation": "commenting"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "500",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:02:02.767Z",
+            "modified": "2022-03-21T14:02:05.169Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2010.6998291015625,7691.76953125,953.3128662109375,658.890625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2cdaf88c-8c5a-4fdb-b306-3815f7ba1b96.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:02:56.718Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:07:00.000Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "501<br/>Johannes<br/>beeldhouwwerk Cyriel<br/>Verschaeve, [1924] of marmeren<br/>versie Joris van de Moortele / Cyriel Verschaeve, 1925"
+        }
+    ],
+    "id": "48b0c5eb-2cdd-4540-ab22-d4b91cc63817.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2923.76611328125,7320.9384765625,818.81201171875,991.2216796875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:03:05.198Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:07:26.366Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "502<br/>Eduard Douwes Dekker<br/>foto"
+        }
+    ],
+    "id": "75d24be1-4f11-4d88-b461-9731d2ab218d.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3728.018310546875,8008.38671875,292.46875,337.568359375"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "503",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:03:13.934Z",
+            "modified": "2022-03-21T14:03:17.153Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3506.129150390625,7358.90625,1323.137939453125,788.53857421875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8f384402-e422-4c77-823e-c8b047d689fa.json",
+    "motivation": "commenting"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "504",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:03:24.742Z",
+            "modified": "2022-03-21T14:03:27.350Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=126.86102294921875,7897.0869140625,896.4052124023438,1270.0771484375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7323fac8-df43-4693-8bc5-3602fa16939d.json",
+    "motivation": "commenting"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "505",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:03:32.862Z",
+            "modified": "2022-03-21T14:03:35.259Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=114.69824981689453,5690.6240234375,2442.7814865112305,3175.89453125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c9403348-1333-4834-895f-20f5ea111e36.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:03:44.662Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:07:40.253Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "506<br/>Paul Alberdingk Thijm<br/>foto"
+        }
+    ],
+    "id": "b9640d0a-aa76-4174-bc9a-bbe7b8613c4e.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2222.823486328125,8865.9365234375,366.925048828125,453.3369140625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:03:53.557Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:07:52.967Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "507<br/>[De geboorte van Christus]"
+        }
+    ],
+    "id": "c6d60ffe-0a43-426d-b1bd-cb5dcab16833.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2596.0517578125,8261.3193359375,1475.305908203125,990.4521484375"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:04:01.789Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:08:49.782Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "508<br/>Faust en Mephisto<br/>silhouettekening Paul Konewka (Gestalten aus \u201cFaust\u201d), 1864, Fr. A. Ackermann\u2019s Kunstverlag,<br/>Mu\u0308nchen \u2013 fragment<br/>prentbriefkaart"
+        }
+    ],
+    "id": "b00d382c-acd4-4b3d-a539-62ee3cac4f45.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3983.229248046875,8109.1513671875,833.401611328125,1154.25"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:04:11.526Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:09:02.883Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "509<br/>De val van Icarus foto<br/>tekening Peter Paul Rubens, 1637"
+        }
+    ],
+    "id": "cb3c625e-d0af-44dd-bd8b-5c5637e8d144.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=124.02008819580078,9138.5478515625,699.6997604370117,941.4462890625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:04:19.229Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:10:11.823Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "510<br/>Siegfrieds zwaard<br/>sce\u0300nekaart Uvachrom No. 5433 - I. Teil Siegfried - Siegfrieds Schwert uit stomme film Die Nibelungen: Siegfried (1924) - <br/>prentbriefkaart"
+        }
+    ],
+    "id": "8e67fbf3-17cb-49de-9254-fca28906f671.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=849.169921875,8849.9560546875,1388.361328125,1070.4423828125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:05:11.141Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:10:25.544Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "511<br/>Rodenbachstoet, studenten huldigen Rodenbach<br/>foto, 1909"
+        }
+    ],
+    "id": "826a104d-2f92-44d9-ae8b-da39e41fcfef.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2198.645751953125,9204.4521484375,1192.7802734375,614.8857421875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "512",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:05:17.133Z",
+            "modified": "2022-03-21T14:05:20.055Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4275.66845703125,9229.8720703125,553.3916015625,443.8671875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3ff8cf3b-950a-4704-90c0-07d8dabefcaf.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:05:28.861Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:11:00.208Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "513<br/>The\u0301a\u0302tre National de l\u2019Opera<br/>prentbriefkaart \u201c27. The\u0301a\u0302tre National de l\u2019Opera \u2013 L\u2019Escalier d\u2019Honneur \u2013 C.M.\u201d, Parijs"
+        }
+    ],
+    "id": "a3a9fffa-bdac-4d62-bcfd-31891904ba66.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3376.333740234375,9223.9541015625,916.735595703125,1385.5791015625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "514",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:05:37.020Z",
+            "modified": "2022-03-21T14:05:39.193Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4263.505859375,9663.29296875,452.77490234375,585.6484375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ea48a91c-c913-4610-8816-f1284a4f3fff.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:05:45.220Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:11:32.289Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "515<br/>De opdracht van de Heilige Maagd Maria in de tempel (Maria Presentatie (Presentazione di Maria al Tempio)<br/>schilderij Titiaan, 1534-38"
+        }
+    ],
+    "id": "eae6ff57-c75e-472e-a8b8-a8f91e233b31.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=239.75877380371094,9830.87890625,3097.778335571289,1393.5400390625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:05:53.036Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:11:43.891Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "516<br/>Hugo Verriest<br/>foto"
+        }
+    ],
+    "id": "e02e289e-4dd3-4e60-8e05-52e0542c41f6.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2382.863037109375,10938.7861328125,445.19873046875,541.61328125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:06:04.500Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:12:06.556Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "517<br/>Leeuw, Tierstudie, Zoo van Keulen<br/>foto A. J. W. de Veer \"L\u00f6we\" - <br/>prentbriefkaart"
+        }
+    ],
+    "id": "50432f01-9895-4e00-8486-a94a70e8c6fb.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2803.233154296875,10645.193359375,1359.212158203125,789.9580078125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:06:10.700Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:12:30.169Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "518<br/>Vexilla Regis (Christus Koning, Kruisstandaarddrager,<br/>Christus Triomphans)<br/>beeldhouwwerk Cyriel<br/>prentbriefkaart Verschaeve, 1935"
+        }
+    ],
+    "id": "cc16eb91-ed20-4ca6-8d91-d15ff47a2820.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=4173.03955078125,10209.1083984375,600.29638671875,1301.1806640625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:06:19.772Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:12:46.661Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "519<br/>Paul Verlaine <br/>schilderij Eug\u00e8ne Carr\u00e8re, 1890"
+        }
+    ],
+    "id": "b57840f0-3e16-4045-b0ab-a20fdeb8da9f.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=173.203857421875,10959.767578125,810.0228881835938,1312.662109375"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:06:28.036Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:13:03.145Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "520<br/>Heilige Clara van Assisi<br/>schilderij Fritz Kunz"
+        }
+    ],
+    "id": "bfba4aa7-8ab8-49fb-a25d-6790923da57d.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1020.010986328125,11198.34765625,1357.377197265625,1092.400390625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:06:37.508Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:13:13.530Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "521<br/>Hermes van Dionysos<br/>buste"
+        }
+    ],
+    "id": "c356e7ef-78d7-47a3-9847-f3af8aff74f4.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2389.90625,11455.71875,322.979248046875,698.5751953125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:06:48.292Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:13:35.376Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "522<br/>Theodor Ko\u0308rner (Ko\u0308rner, dichtend auf einem Schimmel)<br/>ets Max Weese \u2013 prentbriefkaart"
+        }
+    ],
+    "id": "5f554f3d-039e-42ba-8dea-9edb7f65b623.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1925.738037109375,12110.7626953125,788.005615234375,949.0810546875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "523",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:06:54.796Z",
+            "modified": "2022-03-21T14:06:57.294Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2692.96923828125,11426.244140625,2045.0029296875,1546.744140625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "073e6346-3068-48d3-8bcf-d69b7bbaf1a3.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:07:03.953Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:13:56.330Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "524<br/>Zomeravond (Afscheid)<br/>(Sommerabend (Abschied))<br/>schilderij Ludwig von Herterich, c. 1895"
+        }
+    ],
+    "id": "c1c03837-e059-454a-a9d0-7c48e8acacc0.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=203.98069763183594,12283.8525390625,1747.145767211914,2134.7177734375"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "525",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:07:10.867Z",
+            "modified": "2022-03-21T14:07:14.156Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1911.1190185546875,13040.4306640625,692.3013916015625,1500.341796875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e9f56846-4162-43e4-9206-3e31dba7bc7a.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:07:19.323Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:14:37.946Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "526<br/>Sint-Barbara<br/>schilderij Palma Vecchio, middenpaneel polyptiek van Sint-Barbara, 1524-25 (Santa Maria Formosa, Venetie\u0308)"
+        }
+    ],
+    "id": "104a99de-f9ea-488d-be20-483b327d3bb0.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2607.267578125,12436.9384765625,1080.06005859375,2483.572265625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:07:26.268Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:14:57.663Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "527<br/>Hero vindt Leander<br/>schilderij Ferdinand Keller, 1932"
+        }
+    ],
+    "id": "b20ace6d-f6a4-41c7-8efb-e53a9bde0b28.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3651.845703125,12921.49609375,1117.05126953125,1833.5009765625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:07:33.659Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:15:13.574Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "528<br/>Victor Hugo<br/>schilderij Paul Gavarni, 1829"
+        }
+    ],
+    "id": "829b99df-450b-4bd8-b5f7-56a0b01effc6.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1581.570068359375,14410.6513671875,735.537109375,881.8154296875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "529",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:07:40.363Z",
+            "modified": "2022-03-21T14:07:42.632Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2302.961669921875,14563.7958984375,433.894287109375,727.1025390625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f11ecd28-6d48-47e8-b1f8-57893d228ece.json",
+    "motivation": "commenting"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "530",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:07:47.587Z",
+            "modified": "2022-03-21T14:07:50.370Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2727.88916015625,14953.4189453125,603.581298828125,537.4111328125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4cda02cc-1316-4cdc-a32f-e33122f98f42.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:08:01.163Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:15:28.128Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "531<br/>Rome, zicht van Monte Pincio op Sint-Pietersbasiliek<br/>prentbriefkaart?"
+        }
+    ],
+    "id": "d86a83f6-62a0-41c2-b7ff-02e49ea0a4cd.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3314.839111328125,14760.619140625,1470.127197265625,756.962890625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "532",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:08:10.363Z",
+            "modified": "2022-03-21T14:08:12.547Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=218.8660430908203,14360.5205078125,1355.4833221435547,1631.1435546875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b66321ac-14d4-4b75-a5c1-a1b20ecd9f11.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:08:21.627Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:15:42.366Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "533<br/>Portofino<br/>\u201cSaluti da Portofino \u2013 Panorama\u201d \u2013 prentbriefkaart (?)"
+        }
+    ],
+    "id": "e96ac502-d44e-477e-ba59-988cc5a7e7c0.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2737.15185546875,15433.1826171875,1682.6943359375,936.4150390625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:08:27.490Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:15:55.467Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "534<br/>Jan Oskar de Gruyter<br/>foto"
+        }
+    ],
+    "id": "7db4cb5b-3cbe-44a1-9cac-98203564c140.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=4386.7021484375,15513.498046875,486.7177734375,804.3115234375"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:08:36.168Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:16:08.418Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "535<br/>Franciscus preekt voor de vogels<br/>fresco Giotto, 1297/99"
+        }
+    ],
+    "id": "8f1cd22e-68de-4308-9c6e-d35d0d2f4c64.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1020.6323852539062,15924.8125,589.0510864257812,1043.720703125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:08:43.355Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-05-11T09:20:19.046Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "536<br/>Narcissus (Narcisse)<br/>foto Laure Albin Guillot, 1934"
+        }
+    ],
+    "id": "d391bf02-d80a-48e9-8b8a-99cee04dc02c.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1566.0335693359375,15286.7255859375,1235.6016845703125,1652.2724609375"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:08:50.467Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:16:33.861Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "537<br/>Christus met jongeren in Emmaus<br/>schilderij Paolo Veronese, c. 1560"
+        }
+    ],
+    "id": "4dce3a26-6014-472f-b3f3-0962cb0b8313.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2773.25537109375,16371.609375,544.39501953125,591.56640625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "538",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:09:03.706Z",
+            "modified": "2022-03-21T14:09:06.353Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3294.804443359375,16326.2431640625,1574.252197265625,952.7177734375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6eca5a0c-20b0-4cc0-ac92-a5ce238641bd.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:09:11.306Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:16:41.991Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "539<br/>[Springende man]<br/>foto Gerhard Riebicke, 1936"
+        }
+    ],
+    "id": "65ba3059-1916-4df9-9f76-2c88018a09d2.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=193.29754638671875,15976.7490234375,845.0907592773438,1644.4599609375"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:09:22.587Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:16:58.790Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "540<br/>fragment uit De mythe van Diana en Actaeon<br/>fresco Francesco Mazzola bekend als Parmigianino, 1524<br/>kamer van Diana en Actaeon, Rocca Sanvitale, Fontanellato"
+        }
+    ],
+    "id": "8fa81542-b088-4f84-a3bc-61e5032b59f0.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=139.2736053466797,17599.48828125,532.4263458251953,1115.953125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:09:34.962Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:17:23.712Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "541<br/>De geboorte van Venus<br/>schilderij Sandro Botticelli, 1483-85"
+        }
+    ],
+    "id": "e48ea790-51e4-4ab3-908c-b603533ae657.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2372.94921875,16912.66015625,946.180908203125,1392.08984375"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:09:41.938Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:18:13.499Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "542<br/>Sergei Rachmaninov<br/>foto"
+        }
+    ],
+    "id": "d97d1c8b-4249-4644-adac-9941ca34c45d.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3284.003173828125,17266.208984375,320.256591796875,429.189453125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:09:48.610Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:18:23.765Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "543<br/>Zelfportret Rembrandt van Rijn<br/>schilderij toegeschreven aan Rembrandt van Rijn, eerder Govert Flinck, 1635"
+        }
+    ],
+    "id": "3ad645c0-1254-4240-9a9a-9f2c41bda6d2.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3591.830810546875,17191.04296875,509.978271484375,383.349609375"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:09:55.480Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:18:34.735Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "544<br/>Ignacy Jan Paderewski<br/>foto"
+        }
+    ],
+    "id": "04573a47-c722-49cb-bb36-721ba8afe6e0.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=4088.314453125,17221.642578125,413.47509765625,463.8125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:10:04.001Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:18:45.652Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "545<br/>Jan Breydel en Pieter De Coninck<br/>prentbriefkaart (?)"
+        }
+    ],
+    "id": "ec10125f-8782-4b96-ab18-bbd0fe8d303c.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=4468.82275390625,17230.25390625,420.78466796875,755.275390625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:10:12.130Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:18:59.258Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "546<br/>Wallpaviljoen, de Zwinger paleiscomplex te Dresden<br/>foto"
+        }
+    ],
+    "id": "55d4b4dc-ab59-488f-91f6-6688a5c82907.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3288.205322265625,17590.69921875,1153.865478515625,943.19140625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:10:18.746Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:19:08.479Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "547<br/>Enrico Caruso<br/>foto"
+        }
+    ],
+    "id": "ae540c03-38ab-45b0-89e7-53a861ec6bba.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=4449.70556640625,17965.61328125,381.36669921875,520.720703125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:10:29.545Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-05-11T09:22:41.802Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "548<br/>Zelfportret als schilder<br/>schilderij Vincent van Gogh, 1888"
+        }
+    ],
+    "id": "d248f2c8-3c26-4dc0-8c52-be42e967dc30.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=697.392333984375,16885.73046875,1961.426513671875,2614.1953125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:10:39.308Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:19:33.078Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "549<br/>Noli me tangere<br/>fresco Fra Angelico, 1438-39, Conevnto di San Marco, Firenze"
+        }
+    ],
+    "id": "2f8d69f3-6905-4d1e-beec-528b9f7081b3.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2587.52197265625,18282.705078125,720.561767578125,1016.857421875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "550",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:10:45.297Z",
+            "modified": "2022-03-21T14:10:47.860Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3268.708251953125,18474.169921875,474.337646484375,790.0234375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c868c296-9a7c-4dfc-9943-b5da701b9c7a.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:10:54.513Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:19:53.762Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "551<br/>[Zwitserland]<br/>prentbriefkaart (?) \u201cSchweiz>\u201d"
+        }
+    ],
+    "id": "c0a6f89c-1fa7-417f-918b-4a849af3b978.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3688.627685546875,18506.046875,1259.927978515625,889.654296875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "552",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:11:09.273Z",
+            "modified": "2022-03-21T14:11:12.446Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=147.2260284423828,18708.462890625,1019.5847625732422,1656.3671875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d91ef841-c681-400a-aef5-735355029c1c.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:11:15.889Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:20:05.338Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "553<br/>Vesuvius<br/>prentbriefkaart"
+        }
+    ],
+    "id": "49319cdb-7ba0-4a1b-9315-7e375f27e2bc.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1153.1317138671875,19428.34375,1560.4854736328125,902.181640625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:11:21.906Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:21:14.012Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "554<br/>Het visioen van Sint-Antonius van Padua<br/>schilderij Bartolom\u00e9 Esteban Murillo, c. 1668-9"
+        }
+    ],
+    "id": "dc5741e2-9aa4-4e6c-9793-9cb66bd7a001.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2732.0263671875,19287.80078125,2063.80078125,1548.767578125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:11:31.881Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-21T13:18:22.446Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "555<br/>Einsiedler in einer Felsengrotte<br/>schilderij Moritz von Schwind, 1863"
+        }
+    ],
+    "id": "0d1f368e-ba32-47c7-bd72-c9542601d14f.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1598.0654296875,20331.080078125,1299.218505859375,1109.1171875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "556",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:11:40.761Z",
+            "modified": "2022-03-21T14:11:44.032Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4085.36474609375,20859.41015625,781.92626953125,1134.76953125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6bbd62cd-fcfd-4b9d-bd75-0f7b56f23ca8.json",
+    "motivation": "commenting"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "557",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:11:47.545Z",
+            "modified": "2022-03-21T14:11:49.935Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1620.0543212890625,21389.529296875,1177.0010986328125,1271.048828125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "18349ed7-da39-48d6-a865-a23558f3c0ea.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:11:55.104Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:21:50.621Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "558<br/>Het echtpaar (Das ungleiche Paar)<br/>schilderij Wilhelm Leibl, 1876/77"
+        }
+    ],
+    "id": "94262f8a-7a4d-49d8-8f73-9dc757d0549d.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2728.873046875,20805.88671875,1344.091064453125,1918.955078125"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:12:02.113Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:21:58.680Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "559<br/>[De Vlaamsche Boekenhalle]<br/>logo (?)<br/>"
+        }
+    ],
+    "id": "61adfbc6-4b02-42e7-ba60-6565b152c73d.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=4095.166015625,21996.48046875,779.53955078125,718.21875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:12:09.712Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:22:18.053Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "560<br/>Portret van He\u0301le\u0300ne Fourment<br/>schilderij Peter Paul Rubens, 1630"
+        }
+    ],
+    "id": "7f17a778-063a-4f17-b1d1-61353abbebfa.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=131.67189025878906,20336.619140625,1496.9478607177734,3303.9140625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "561",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:12:19.456Z",
+            "modified": "2022-03-21T14:12:21.885Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1591.289794921875,22674.30078125,1025.890869140625,938.755859375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9e8f39d2-12ca-47ea-89a0-83e95b6794e1.json",
+    "motivation": "commenting"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "562",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:12:25.584Z",
+            "modified": "2022-03-21T14:12:27.705Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2593.019287109375,22679.158203125,2201.273681640625,1365.3984375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d2888237-d481-41fb-9135-db4f2c46fbb8.json",
+    "motivation": "commenting"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:12:31.120Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:22:31.831Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "563<br/>Paus Julius II (Julio II) <br/>schilderij Titiaan, 1545/46"
+        }
+    ],
+    "id": "9a06052f-9d41-46fc-bcc9-538034c568a7.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=31.27308464050293,23812.86328125,606.5690174102783,1406.77734375"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T14:12:36.896Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T13:22:39.103Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "564<br/>[Johannes, Maria Magdalena, Maria met kind, Zacharias] (?)"
+        }
+    ],
+    "id": "4744d17c-e2f2-4cd4-8ee8-a3b7e3ccac49.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=647.3024291992188,23646.158203125,2611.4341430664062,1450.966796875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "565",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-03-21T14:12:45.448Z",
+            "modified": "2022-03-21T14:12:48.119Z"
+        }
+    ],
+    "target": {
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3225.455078125,24028.705078125,1650.65673828125,1051.119140625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1917af21-55d8-4ca9-afce-13cf2031df87.json",
+    "motivation": "commenting"
+}] }
