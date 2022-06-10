@@ -45,7 +45,7 @@
             "modified": "2022-04-20T12:51:03.769Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "652<br/>Aurora<br/>fresco Guido Reni, 1613-14, Casino dell\u2019Aurora, plafond, Rome"
+            "value": "652<br/>Aurora<br/>fresco Guido Reni, 1613-14<br/>Casino dell\u2019Aurora, plafond, Rome"
         }
     ],
     "id": "fd7c24b9-62be-4b24-8865-209ae6dd6b66.json",
@@ -105,7 +105,7 @@
             "modified": "2022-04-20T12:52:41.543Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "654<br/>August Cuppens (?)"
+            "value": "654<br/>August Cuppens?"
         }
     ],
     "id": "2319fe46-b922-4e09-ba5f-b4b6553be9bc.json",
@@ -135,7 +135,7 @@
             "modified": "2022-04-20T12:52:52.438Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "655<br/>Tondo<br/>beeldhouwwerk Andrea della Robbia, c. 1490, Ospedale degli Innocenti, Firenze"
+            "value": "655<br/>Tondo<br/>beeldhouwwerk Andrea della Robbia, c. 1490<br/>Ospedale degli Innocenti, Firenze"
         }
     ],
     "id": "2dbca481-8ec5-49da-b42d-b1cc5cb07b51.json",
@@ -195,7 +195,7 @@
             "modified": "2022-04-20T12:53:29.326Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "657<br/>Die Geburt Christi<br/>schilderij Martin Schongauer, c. 1475-80"
+            "value": "657<br/>Die Geburt Christi<br/>schilderij Martin Schongauer, c. 1475-1480"
         }
     ],
     "id": "795c086f-4c79-4d9b-b701-d28e2310e0e4.json",
@@ -405,7 +405,7 @@
             "modified": "2022-04-20T12:54:58.521Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "664<br/>Per Aspera ad Astra (1888), Karl Wilhelm Diefenbach"
+            "value": "664<br/>Per Aspera ad Astra<br/> tekening Karl Wilhelm Diefenbach, 1888"
         }
     ],
     "id": "10c7e261-45f1-498d-8f06-3a3fb54ec6bf.json",
@@ -675,7 +675,7 @@
             "modified": "2022-04-20T13:06:10.034Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "673<br/>August Vermeylen (?)<br/>foto"
+            "value": "673<br/>August Vermeylen?<br/>foto"
         }
     ],
     "id": "63b11b3d-95dc-42a5-adec-9005e45b1ddb.json",
@@ -735,7 +735,7 @@
             "modified": "2022-04-20T13:06:27.646Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "675<br/>La Belle Chocolatie\u0300re<br/>pasteltekening Jean-E\u0301tienne Liotard, c. 1743-44"
+            "value": "675<br/>La Belle Chocolatie\u0300re<br/>pasteltekening Jean-E\u0301tienne Liotard, c. 1743-1744"
         }
     ],
     "id": "5ba1d13a-d624-4a46-bfdd-6e5bf1571686.json",
@@ -1125,7 +1125,7 @@
             "modified": "2022-04-20T13:10:23.908Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "688<br/>Madonna Sistina<br/>schilderij Raffaello Sanzio (Rafael), c. 1513-14"
+            "value": "688<br/>Madonna Sistina<br/>schilderij Raffaello Sanzio (Rafa\u00ebl), c. 1513-14"
         }
     ],
     "id": "478188c9-daaa-426f-8d9c-c9210e9ea8d5.json",
@@ -1185,7 +1185,7 @@
             "modified": "2022-04-20T13:11:26.037Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "690<br/>Cherubini (Putti)<br/>schilderij Raffaello Sanzio (Rafael), c. 1513-14 \u2013 detail van Madonna<br/>Sistina"
+            "value": "690<br/>Cherubini (Putti)<br/>schilderij Raffaello Sanzio (Rafa\u00ebl), c. 1513-1514<br/>detail van Madonna<br/>Sistina"
         }
     ],
     "id": "c6716d9e-969b-40cf-a4f1-96909c6540e8.json",
@@ -1305,7 +1305,7 @@
             "modified": "2022-04-20T13:12:15.618Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "694<br/>Teufelsbru\u0308cke<br/>grafiek Albert Welti, 1902 \u2013 <br/>nieuwjaarskaart"
+            "value": "694<br/>Teufelsbru\u0308cke<br/>grafiek Albert Welti, 1902<br/>nieuwjaarskaart"
         }
     ],
     "id": "7250ec69-a490-499a-b400-049e444ac24a.json",
@@ -1515,7 +1515,7 @@
             "modified": "2022-04-20T13:13:56.800Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "701<br/>Jan Breydel en Pieter De Coninck<br/>beeldhouwwerk Paul de Vigne, 1887 \u2013 <br/>prentbriefkaart"
+            "value": "701<br/>Jan Breydel en Pieter De Coninck<br/>beeldhouwwerk Paul de Vigne, 1887<br/>prentbriefkaart"
         }
     ],
     "id": "47cb78b9-3515-489d-a07b-ac04cb63b7ef.json",
@@ -1575,7 +1575,7 @@
             "modified": "2022-04-20T13:16:01.326Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "703<br/>Getroonde Madonna met kind, omringd door heiligen<br/>schilderij Peter Paul Rubens, c.1627-28"
+            "value": "703<br/>Getroonde Madonna met kind, omringd door heiligen<br/>schilderij Peter Paul Rubens, c.1627-1628"
         }
     ],
     "id": "46f80290-cd68-4014-aa82-0cb456d49f0f.json",
@@ -1815,7 +1815,7 @@
             "modified": "2022-04-20T13:18:16.592Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "711<br/>Enrico Caruso<br/>karikatuur [E. Burkard?] \u2013<br/>prentbriefkaart"
+            "value": "711<br/>Enrico Caruso<br/>karikatuur [E. Burkard?]<br/>prentbriefkaart"
         }
     ],
     "id": "684f1de9-a1fe-400d-bde8-26bb24537773.json",
@@ -1935,7 +1935,7 @@
             "modified": "2022-04-20T13:20:24.706Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "715<br/>l Cenacolo or L\u2019Ultima Cena (Het Laatste Avondmaal) schilderij naar Leonardo da Vinci (Giovanni Pietro Rizzoli?, Andrea di Bartoli Solario?)"
+            "value": "715<br/>Het Laatste Avondmaal<br/>schilderij naar Leonardo da Vinci (Giovanni Pietro Rizzoli?, Andrea di Bartoli Solario?)"
         }
     ],
     "id": "10c92796-dfa1-4c5a-8b46-e72183eac1c9.json",
@@ -1965,7 +1965,7 @@
             "modified": "2022-04-20T13:20:35.730Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "716<br/>\u201cInneres de Katharinenklosters / Interior of St. Catharine\u2019s Cloister.<br/>/ Inte\u0301rieur du couvent St. Cathe\u0301rine.\u201d<br/>schilderij Johann Friedrich Perlberg \u2013 prentbriefkaart Serie 168. Palestina. No. 24 \u2013 [Sinai\u0308]"
+            "value": "716<br/>\u201cInterieur van het Sint-Catharinaklooster.\u201d<br/>schilderij Johann Friedrich Perlberg<br/>prentbriefkaart, serie 168. Palestina. No. 24 \u2013 [Sinai\u0308]"
         }
     ],
     "id": "31cc8368-9423-4e47-bd39-0e359b390012.json",
@@ -2115,7 +2115,7 @@
             "modified": "2022-04-20T13:21:18.532Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "721<br/>Rapsodie\u0308n van Liszt<br/>silhouettekening Willi Bithorn \u2013 <br/>prentbriefkaart"
+            "value": "721<br/>Rapsodie\u0308n van Liszt<br/>silhouettekening Willi Bithorn<br/>prentbriefkaart"
         }
     ],
     "id": "56299fb0-704f-45a8-ae14-ee051e3ebc6a.json",
@@ -2355,7 +2355,7 @@
             "modified": "2022-05-11T11:48:13.973Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "729<br/>Zelfportret<br/>schilderij Raffaello Sanzio (Rafael), 1506"
+            "value": "729<br/>Zelfportret<br/>schilderij Raffaello Sanzio (Rafa\u00ebl), 1506"
         }
     ],
     "id": "67d5e5de-97dd-4fa4-b887-9919315ec5d2.json",
@@ -2475,7 +2475,7 @@
             "modified": "2022-04-20T13:24:57.511Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "734<br/>Madonna del Granduca<br/>schilderij Raffaello Sanzio (Rafael), c. 1505-06"
+            "value": "734<br/>Madonna del Granduca<br/>schilderij Raffaello Sanzio (Rafa\u00ebl), c. 1505-1506"
         }
     ],
     "id": "bf38dc03-583c-4e32-a111-0c3d0b40960b.json",
@@ -2565,7 +2565,7 @@
             "modified": "2022-04-20T13:25:26.888Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "737<br/>Madonna met kersen<br/>(Madonna delle Ciliegie) schilderij Titiaan, c. 1516-18"
+            "value": "737<br/>Madonna met kersen<br/>(Madonna delle Ciliegie) schilderij Titiaan, c. 1516-1518"
         }
     ],
     "id": "76f862cd-8aa7-4c53-9229-c1f9595e34d3.json",
@@ -2625,7 +2625,7 @@
             "modified": "2022-04-20T13:25:40.279Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "739<br/>De Luitspeler<br/>schilderij Frans Hals, c. 1623-24"
+            "value": "739<br/>De Luitspeler<br/>schilderij Frans Hals, c. 1623-1624"
         }
     ],
     "id": "be9d00e0-c230-47ed-a712-c8e80af4269c.json",
@@ -2745,7 +2745,7 @@
             "modified": "2022-04-20T13:26:30.053Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "743<br/>Valentin<br/>silhouettekening Paul Konewka (Gestalten aus \u201cFaust\u201d), 1864, Fr. A. Ackermann\u2019s Kunstverlag, Mu\u0308nchen \u2013 fragment prentbriefkaart"
+            "value": "743<br/>Valentin<br/>silhouettekening Paul Konewka (Gestalten aus \u201cFaust\u201d), 1864<br/>prentbriefkaart Fr. A. Ackermann\u2019s Kunstverlag, Mu\u0308nchen"
         }
     ],
     "id": "5e752712-a770-41cb-9182-b97250c42e6c.json",
@@ -2775,7 +2775,7 @@
             "modified": "2022-04-20T13:26:47.224Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "744<br/>Please send back my daddy<br/>tekening A. A. Nash - <br/>prentbriefkaart"
+            "value": "744<br/>Please send back my daddy<br/>tekening A. A. Nash<br/>prentbriefkaart"
         }
     ],
     "id": "7329b9ef-26fc-4a9f-8f73-5b04333d3891.json",
@@ -2895,7 +2895,7 @@
             "modified": "2022-04-20T13:31:47.200Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "748<br/>Mediterende Sint-Franciscus<br/>(San Francisco en e\u0301xtasis) schilderij Francisco de Zurbara\u0301n, 1639"
+            "value": "748<br/>Mediterende Sint-Franciscus<br/>schilderij Francisco de Zurbara\u0301n, 1639"
         }
     ],
     "id": "b5fa83db-ffe9-4428-8ccc-85044b160ee0.json",
@@ -2985,7 +2985,7 @@
             "modified": "2022-04-20T13:32:17.354Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "751<br/>Kinderen in rondedans<br/>schilderij Hans Thoma, 1872 \u2013 prentbriefkaart (Verlag Seemann Nr. 6 AK)"
+            "value": "751<br/>Kinderen in rondedans<br/>schilderij Hans Thoma, 1872<br/>prentbriefkaart, Verlag Seemann Nr. 6 AK"
         }
     ],
     "id": "42036481-73eb-4c56-bdbb-2cf11317c5f2.json",
@@ -3045,7 +3045,7 @@
             "modified": "2022-05-11T11:50:54.099Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "753<br/>Jezus ontmoet zijn moeder, onderdeel van De zeven smarten van Maria<br/>schilderij Jozef Janssens"
+            "value": "753<br/>Jezus ontmoet zijn moeder<br/>schilderij Jozef Janssens, onderdeel van De zeven smarten van Maria"
         }
     ],
     "id": "20c8913c-8f13-448d-8853-17094af6af45.json",
@@ -3225,7 +3225,7 @@
             "modified": "2022-04-20T13:39:29.231Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "759<br/>Silenus plukt druiven<br/>schilderij Annibale Carracci, 1597- 1600"
+            "value": "759<br/>Silenus plukt druiven<br/>schilderij Annibale Carracci, 1597-1600"
         }
     ],
     "id": "ce48da56-1b3b-40e2-b08a-517712f6f015.json",
