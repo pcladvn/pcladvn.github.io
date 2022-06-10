@@ -1,69 +1,5 @@
 
 {
-"@context": "http://iiif.io/api/presentation/3/context.json",
-"id": "https://pcladvn.github.io/annonatate/annotations/ccd284e7-ed5a-409e-887d-1b56115d4059-list",
-"type": "AnnotationPage",
-"items": [{
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "body": [
-        {
-            "created": "2022-03-21T13:52:45.532Z",
-            "creator": {
-                "id": "pcladvn",
-                "name": "pcladvn"
-            },
-            "modified": "2022-04-17T12:55:08.048Z",
-            "purpose": "identifying",
-            "type": "TextualBody",
-            "value": "473<br/>La pens\u00e9e <br/>beeldhouwwerk Auguste Rodin, 1896"
-        }
-    ],
-    "id": "f71380c9-2141-4f34-b3d7-1a9783f410bd.json",
-    "motivation": "commenting",
-    "target": {
-        "dcterms:isPartOf": {
-            "id": "https://pcladvn.github.io/manifest.json",
-            "type": "Manifest"
-        },
-        "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "xywh=1867.498779296875,1298.028076171875,758.91552734375,771.137451171875"
-        },
-        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
-    },
-    "type": "Annotation"
-},{
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "body": [
-        {
-            "created": "2022-03-21T13:52:58.164Z",
-            "creator": {
-                "id": "pcladvn",
-                "name": "pcladvn"
-            },
-            "modified": "2022-04-17T12:55:56.575Z",
-            "purpose": "identifying",
-            "type": "TextualBody",
-            "value": "475<br/>Margarete en Faust<br/>silhouettekening Paul Konewka (Gestalten aus \u201cFaust\u201d), 1864, Fr. A. Ackermann\u2019s Kunstverlag, Mu\u0308nchen \u2013 fragment prentbriefkaart"
-        }
-    ],
-    "id": "cb7b0df8-e25c-471d-904b-2bfad3e0dd8e.json",
-    "motivation": "commenting",
-    "target": {
-        "dcterms:isPartOf": {
-            "id": "https://pcladvn.github.io/manifest.json",
-            "type": "Manifest"
-        },
-        "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "xywh=3865.35986328125,1155.3892822265625,867.3154296875,1056.1783447265625"
-        },
-        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
-    },
-    "type": "Annotation"
-},{
     "type": "Annotation",
     "body": [
         {
@@ -105,7 +41,7 @@
             "modified": "2022-04-17T12:54:19.866Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "470<br/>Het laatste gebed van de christelijke martelaren<br/>schilderij Jean-Leon Gerome, 1863-83"
+            "value": "470<br/>Het laatste gebed van de christelijke martelaren<br/>schilderij Jean-Leon Gerome, 1863-1883"
         }
     ],
     "id": "8afb86b0-2c38-4c0f-bd5c-e734ae28690a.json",
@@ -184,6 +120,40 @@
     },
     "type": "Annotation"
 },{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+"id": "https://pcladvn.github.io/annonatate/annotations/ccd284e7-ed5a-409e-887d-1b56115d4059-list",
+"type": "AnnotationPage",
+"items": [{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "created": "2022-03-21T13:52:45.532Z",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "modified": "2022-04-17T12:55:08.048Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "473<br/>La pens\u00e9e <br/>beeldhouwwerk Auguste Rodin, 1896"
+        }
+    ],
+    "id": "f71380c9-2141-4f34-b3d7-1a9783f410bd.json",
+    "motivation": "commenting",
+    "target": {
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1867.498779296875,1298.028076171875,758.91552734375,771.137451171875"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
+    },
+    "type": "Annotation"
+},{
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
@@ -214,35 +184,35 @@
     },
     "type": "Annotation"
 },{
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "475",
-            "purpose": "identifying",
+            "created": "2022-03-21T13:52:58.164Z",
             "creator": {
                 "id": "pcladvn",
                 "name": "pcladvn"
             },
-            "created": "2022-03-21T13:58:24.385Z",
-            "modified": "2022-03-21T13:58:26.906Z"
+            "modified": "2022-04-17T12:55:56.575Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "475<br/>Margarete en Faust<br/>silhouettekening Paul Konewka (Gestalten aus \u201cFaust\u201d), 1864<br/> fragment prentbriefkaart Fr. A. Ackermann\u2019s Kunstverlag, Mu\u0308nchen"
         }
     ],
+    "id": "cb7b0df8-e25c-471d-904b-2bfad3e0dd8e.json",
+    "motivation": "commenting",
     "target": {
-        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3866.602783203125,1154.6494140625,892.558349609375,1074.11181640625"
-        },
         "dcterms:isPartOf": {
             "id": "https://pcladvn.github.io/manifest.json",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3865.35986328125,1155.3892822265625,867.3154296875,1056.1783447265625"
+        },
+        "source": "http://ccd284e7-ed5a-409e-887d-1b56115d4059"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "f0aa840b-3f3a-4fc1-bccc-322559cd579a.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 },{
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
@@ -375,7 +345,7 @@
             "modified": "2022-04-17T12:56:56.309Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "480<br/>Cassandra (Kassandra, portrait einer Frau)<br/>beeldhouwwerk Max Klinger, 1886/95 \u2013 prentbriefkaart<br/>(Verlag Seemann Nr. 14)"
+            "value": "480<br/>Cassandra<br/>beeldhouwwerk Max Klinger, 1886-1895<br/>prentbriefkaart, Verlag Seemann Nr. 14"
         }
     ],
     "id": "9f53b7dd-2000-43d0-917c-50ac84796102.json",
@@ -405,7 +375,7 @@
             "modified": "2022-04-17T12:57:19.511Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "481<br/>Sint-Wendelinus (S. Wendelinus Pastor, Gebet am Bildstock) schilderij Mattha\u0308us Schiestl \u2013<br/>prentbriefkaart"
+            "value": "481<br/>Sint-Wendelinus<br/>schilderij Mattha\u0308us Schiestl<br/>prentbriefkaart"
         }
     ],
     "id": "06ea94e6-fd85-4011-bedf-d8c182eed838.json",
@@ -495,7 +465,7 @@
             "modified": "2022-04-17T12:57:51.886Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "484<br/>Sint-Eustachius<br/>schilderij Albrecht Du\u0308rer, c. 1500, rechterluik binnengedeelte<br/>triptiek Paumgarten Altar<br/>(Katharinen, Nuremberg)"
+            "value": "484<br/>Sint-Eustachius<br/>schilderij Albrecht Du\u0308rer, c. 1500<br/>rechterluik binnengedeelte triptiek Paumgarten Altar<br/>(Katharinen, Nuremberg)"
         }
     ],
     "id": "bf81230f-98a3-483c-bfbd-4adbc6f9b2fb.json",
@@ -1215,7 +1185,7 @@
             "modified": "2022-04-17T13:08:49.782Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "508<br/>Faust en Mephisto<br/>silhouettekening Paul Konewka (Gestalten aus \u201cFaust\u201d), 1864, Fr. A. Ackermann\u2019s Kunstverlag,<br/>Mu\u0308nchen \u2013 fragment<br/>prentbriefkaart"
+            "value": "508<br/>Faust en Mephisto<br/>silhouettekening Paul Konewka (Gestalten aus \u201cFaust\u201d), 1864<br/> prentbriefkaart, Fr. A. Ackermann\u2019s Kunstverlag,Mu\u0308nchen"
         }
     ],
     "id": "b00d382c-acd4-4b3d-a539-62ee3cac4f45.json",
@@ -1245,7 +1215,7 @@
             "modified": "2022-04-17T13:09:02.883Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "509<br/>De val van Icarus foto<br/>tekening Peter Paul Rubens, 1637"
+            "value": "509<br/>De val van Icarus<br/>tekening Peter Paul Rubens, 1637"
         }
     ],
     "id": "cb3c625e-d0af-44dd-bd8b-5c5637e8d144.json",
@@ -1275,7 +1245,7 @@
             "modified": "2022-04-17T13:10:11.823Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "510<br/>Siegfrieds zwaard<br/>sce\u0300nekaart Uvachrom No. 5433 - I. Teil Siegfried - Siegfrieds Schwert uit stomme film Die Nibelungen: Siegfried (1924) - <br/>prentbriefkaart"
+            "value": "510<br/>Siegfrieds zwaard<br/>sce\u0300nekaart Uvachrom No. 5433 - I. Teil Siegfried - Siegfrieds Schwert uit stomme film Die Nibelungen: Siegfried (1924)<br/>prentbriefkaart"
         }
     ],
     "id": "8e67fbf3-17cb-49de-9254-fca28906f671.json",
@@ -1425,7 +1395,7 @@
             "modified": "2022-04-17T13:11:32.289Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "515<br/>De opdracht van de Heilige Maagd Maria in de tempel (Maria Presentatie (Presentazione di Maria al Tempio)<br/>schilderij Titiaan, 1534-38"
+            "value": "515<br/>De opdracht van de Heilige Maagd Maria in de tempel<br/>schilderij Titiaan, 1534-1538"
         }
     ],
     "id": "eae6ff57-c75e-472e-a8b8-a8f91e233b31.json",
@@ -1485,7 +1455,7 @@
             "modified": "2022-04-17T13:12:06.556Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "517<br/>Leeuw, Tierstudie, Zoo van Keulen<br/>foto A. J. W. de Veer \"L\u00f6we\" - <br/>prentbriefkaart"
+            "value": "517<br/>Leeuw, dierstudie, Zoo van Keulen<br/>foto A. J. W. de Veer \"L\u00f6we\"<br/>prentbriefkaart"
         }
     ],
     "id": "50432f01-9895-4e00-8486-a94a70e8c6fb.json",
@@ -1515,7 +1485,7 @@
             "modified": "2022-04-17T13:12:30.169Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "518<br/>Vexilla Regis (Christus Koning, Kruisstandaarddrager,<br/>Christus Triomphans)<br/>beeldhouwwerk Cyriel<br/>prentbriefkaart Verschaeve, 1935"
+            "value": "518<br/>Vexilla Regis (Christus Koning, Kruisstandaarddrager, Christus Triomphans)<br/>beeldhouwwerk Cyriel Verschaeve, 1935"
         }
     ],
     "id": "cc16eb91-ed20-4ca6-8d91-d15ff47a2820.json",
@@ -1635,7 +1605,7 @@
             "modified": "2022-04-17T13:13:35.376Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "522<br/>Theodor Ko\u0308rner (Ko\u0308rner, dichtend auf einem Schimmel)<br/>ets Max Weese \u2013 prentbriefkaart"
+            "value": "522<br/>Theodor Ko\u0308rner (Ko\u0308rner, dichtend auf einem Schimmel)<br/>ets Max Weese<br/>prentbriefkaart"
         }
     ],
     "id": "5f554f3d-039e-42ba-8dea-9edb7f65b623.json",
@@ -1755,7 +1725,7 @@
             "modified": "2022-04-17T13:14:37.946Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "526<br/>Sint-Barbara<br/>schilderij Palma Vecchio, middenpaneel polyptiek van Sint-Barbara, 1524-25 (Santa Maria Formosa, Venetie\u0308)"
+            "value": "526<br/>Sint-Barbara<br/>schilderij Palma Vecchio, 1524-1525<br/>middenpaneel polyptiek van Sint-Barbara, Santa Maria Formosa, Venetie\u0308"
         }
     ],
     "id": "104a99de-f9ea-488d-be20-483b327d3bb0.json",
@@ -1965,7 +1935,7 @@
             "modified": "2022-04-17T13:15:42.366Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "533<br/>Portofino<br/>\u201cSaluti da Portofino \u2013 Panorama\u201d \u2013 prentbriefkaart (?)"
+            "value": "533<br/>Portofino<br/>\u201cSaluti da Portofino \u2013 Panorama\u201d \u2013 prentbriefkaart?"
         }
     ],
     "id": "e96ac502-d44e-477e-ba59-988cc5a7e7c0.json",
@@ -2025,7 +1995,7 @@
             "modified": "2022-04-17T13:16:08.418Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "535<br/>Franciscus preekt voor de vogels<br/>fresco Giotto, 1297/99"
+            "value": "535<br/>Franciscus preekt voor de vogels<br/>fresco Giotto, 1297-1299"
         }
     ],
     "id": "8f1cd22e-68de-4308-9c6e-d35d0d2f4c64.json",
@@ -2205,7 +2175,7 @@
             "modified": "2022-04-17T13:17:23.712Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "541<br/>De geboorte van Venus<br/>schilderij Sandro Botticelli, 1483-85"
+            "value": "541<br/>De geboorte van Venus<br/>schilderij Sandro Botticelli, 1483-1485"
         }
     ],
     "id": "e48ea790-51e4-4ab3-908c-b603533ae657.json",
@@ -2325,7 +2295,7 @@
             "modified": "2022-04-17T13:18:45.652Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "545<br/>Jan Breydel en Pieter De Coninck<br/>prentbriefkaart (?)"
+            "value": "545<br/>Jan Breydel en Pieter De Coninck<br/>prentbriefkaart?"
         }
     ],
     "id": "ec10125f-8782-4b96-ab18-bbd0fe8d303c.json",
@@ -2445,7 +2415,7 @@
             "modified": "2022-04-17T13:19:33.078Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "549<br/>Noli me tangere<br/>fresco Fra Angelico, 1438-39, Conevnto di San Marco, Firenze"
+            "value": "549<br/>Noli me tangere<br/>fresco Fra Angelico, 1438-39<br/>San Marcoklooster, Firenze"
         }
     ],
     "id": "2f8d69f3-6905-4d1e-beec-528b9f7081b3.json",
@@ -2505,7 +2475,7 @@
             "modified": "2022-04-17T13:19:53.762Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "551<br/>[Zwitserland]<br/>prentbriefkaart (?) \u201cSchweiz>\u201d"
+            "value": "551<br/>[Zwitserland]<br/>prentbriefkaart? \u201cSchweiz>\u201d"
         }
     ],
     "id": "c0a6f89c-1fa7-417f-918b-4a849af3b978.json",
@@ -2595,7 +2565,7 @@
             "modified": "2022-04-17T13:21:14.012Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "554<br/>Het visioen van Sint-Antonius van Padua<br/>schilderij Bartolom\u00e9 Esteban Murillo, c. 1668-9"
+            "value": "554<br/>Het visioen van Sint-Antonius van Padua<br/>schilderij Bartolom\u00e9 Esteban Murillo, c. 1668-1669"
         }
     ],
     "id": "dc5741e2-9aa4-4e6c-9793-9cb66bd7a001.json",
@@ -2715,7 +2685,7 @@
             "modified": "2022-04-17T13:21:50.621Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "558<br/>Het echtpaar (Das ungleiche Paar)<br/>schilderij Wilhelm Leibl, 1876/77"
+            "value": "558<br/>Het echtpaar<br/>schilderij Wilhelm Leibl, 1876-1877"
         }
     ],
     "id": "94262f8a-7a4d-49d8-8f73-9dc757d0549d.json",
@@ -2745,7 +2715,7 @@
             "modified": "2022-04-17T13:21:58.680Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "559<br/>[De Vlaamsche Boekenhalle]<br/>logo (?)<br/>"
+            "value": "559<br/>[De Vlaamsche Boekenhalle]<br/>logo?"
         }
     ],
     "id": "61adfbc6-4b02-42e7-ba60-6565b152c73d.json",
@@ -2865,7 +2835,7 @@
             "modified": "2022-04-17T13:22:31.831Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "563<br/>Paus Julius II (Julio II) <br/>schilderij Titiaan, 1545/46"
+            "value": "563<br/>Paus Julius II<br/>schilderij Titiaan, 1545-1546"
         }
     ],
     "id": "9a06052f-9d41-46fc-bcc9-538034c568a7.json",
