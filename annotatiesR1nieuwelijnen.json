@@ -15,7 +15,7 @@
             "modified": "2022-06-08T16:32:32.156Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "TEST1<br/>Berberleeuw, dierstudie, Zoo van Keulen<br/>foto A. J. W. de Veer \"L\u00f6we\" -<br/>prentbriefkaart"
+            "value": "TEST1<br/>Berberleeuw, dierstudie, Zoo van Keulen<br/>foto A. J. W. de Veer \"L\u00f6we\"<br/>prentbriefkaart"
         }
     ],
     "id": "3452898b-611e-42a7-a34f-e4a93510f36d.json",
@@ -45,7 +45,7 @@
             "modified": "2022-06-08T06:54:00.834Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "2 <br/>Ignudi <br/>fresco Michelangelo, 1508-12, <br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "2 <br/>Ignudi <br/>fresco Michelangelo, 1508-12<br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "6c751a32-49ec-46d4-bae0-2af04c74e04e.json",
@@ -75,7 +75,7 @@
             "modified": "2022-05-11T06:55:01.177Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "3<br/>Koor (Cantoria) <br/>beeldhouwwerk Luca della Robbia, <br/>Kathedraal van Florence"
+            "value": "3<br/>Koor (Cantoria) <br/>beeldhouwwerk Luca della Robbia<br/>Kathedraal van Florence"
         }
     ],
     "id": "40e41d87-b1cd-44fc-860f-692c0ca3aa81.json",
@@ -105,7 +105,7 @@
             "modified": "2022-04-14T10:58:22.333Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "4<br/>Cherubijn met luit<br/>detail uit retabel in Sint-Maartenskathedraal, Lucca -<br/>foto gebroeders Alinari, 1893"
+            "value": "4<br/>Cherubijn met luit<br/>detail uit retabel in Sint-Maartenskathedraal, Lucca<br/>foto gebroeders Alinari, 1893"
         }
     ],
     "id": "c3816b0d-36d7-4139-8ae2-baf88daafcb7.json",
@@ -135,7 +135,7 @@
             "modified": "2022-06-08T06:54:08.185Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "5 <br/>Pontius Pilatus<br/>prentbriefkaart Oberammergau Passionsspiele \u2013 serie 2, 1922"
+            "value": "5 <br/>Pontius Pilatus<br/>prentbriefkaart Oberammergauer Passionsspiele, 1922"
         }
     ],
     "id": "826e4d24-07b3-4ffa-8fa2-1de835af8e70.json",
@@ -165,7 +165,7 @@
             "modified": "2022-04-14T10:58:51.272Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "6<br/>Ignudi<br/>fresco Michelangelo, 1508-12, <br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "6<br/>Ignudi<br/>fresco Michelangelo, 1508-12<br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "a73c37a7-b00f-459f-b28e-64081b6a8130.json",
@@ -225,7 +225,7 @@
             "modified": "2022-04-14T10:59:42.562Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "8<br/>Tiroolse boerenjongen<br/>schilderij Ludwig Knaus, 1897 -<br/>prentbriefkaart"
+            "value": "8<br/>Tiroolse boerenjongen<br/>schilderij Ludwig Knaus, 1897<br/>prentbriefkaart"
         }
     ],
     "id": "b5de3558-26a9-4ea9-b3ab-8f32cab6d2c1.json",
@@ -345,7 +345,7 @@
             "modified": "2022-04-14T11:00:45.995Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "12<br/>Judas<br/>prentbriefkaart Oberammergau <br/>Passionsspiele, 1922"
+            "value": "12<br/>Judas<br/>prentbriefkaart Oberammergauer Passionsspiele, 1922"
         }
     ],
     "id": "1d07600a-a9ba-47a1-8a02-6905b9dc8d55.json",
@@ -765,7 +765,7 @@
             "modified": "2022-04-14T11:05:23.587Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "26<br/>Sint-Christoffel<br/>schilderij Dirk Bouts (rechterluik van triptiek De Parel van Brabant), 1460-65"
+            "value": "26<br/>Sint-Christoffel<br/>schilderij Dirk Bouts, rechterluik van triptiek De Parel van Brabant, 1460-65"
         }
     ],
     "id": "63d0fcdf-9292-4f76-9764-96bf7e605d8b.json",
@@ -975,7 +975,7 @@
             "modified": "2022-04-14T11:22:40.884Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "33<br/>Madonna del Sasso klooster, loggia, Locarno - <br/>prentbriefkaart (?)"
+            "value": "33<br/>Madonna del Sasso klooster, loggia, Locarno<br/>prentbriefkaart (?)"
         }
     ],
     "id": "5a705bbb-9d38-447e-9a69-e697a0f3f63f.json",
@@ -1155,7 +1155,7 @@
             "modified": "2022-04-14T11:24:13.624Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "39<br/>Charles Baudelaire<br/>gravure Pierre-Eug\u00e8ne Vibert, voor 1920 -<br/>naar foto \u00c9tienne Carjat, 1863"
+            "value": "39<br/>Charles Baudelaire<br/>gravure Pierre-Eug\u00e8ne Vibert, voor 1920<br/>naar foto \u00c9tienne Carjat, 1863"
         }
     ],
     "id": "ed940f26-5330-4159-987d-f24242dde42e.json",
@@ -1215,7 +1215,7 @@
             "modified": "2022-04-14T11:24:57.386Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "41<br/>De vrouwen bij het graf van Christus<br/>fresco Fra Angelico, 1451-52, <br/>Santissima Annunziata, Firenze"
+            "value": "41<br/>De vrouwen bij het graf van Christus<br/>fresco Fra Angelico, 1451-52<br/>Santissima Annunziata, Firenze"
         }
     ],
     "id": "4c4d10fe-d96e-42ae-a9eb-2585e88d8830.json",
@@ -1365,7 +1365,7 @@
             "modified": "2022-04-14T11:26:44.994Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "46<br/>De val van Adam en Eva (De zondeval) & De verdrijving uit het paradijs<br/>fresco Michelangelo, 1508-12, <br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "46<br/>De zondeval & De verdrijving uit het paradijs<br/>fresco Michelangelo, 1508-12<br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "93a45165-d3f3-4738-9fa0-803003fb7c89.json",
@@ -1455,7 +1455,7 @@
             "modified": "2022-04-14T11:27:45.547Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "49<br/>Kaarsenfabriek Gouda<br/>litho Jan Toorop , c. 1905"
+            "value": "49<br/>Kaarsenfabriek Gouda<br/>lithografie Jan Toorop , c. 1905"
         }
     ],
     "id": "80271d50-540c-4b53-907b-2738c89482a5.json",
@@ -1575,7 +1575,7 @@
             "modified": "2022-04-14T11:29:50.866Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "53<br/>Little Red Riding Hood<br/>schilderij George Frederick Watts,<br/>1890"
+            "value": "53<br/>Little Red Riding Hood<br/>schilderij George Frederick Watts, 1890"
         }
     ],
     "id": "3428b326-cd3f-422a-b5e7-d6e26f6ee3b2.json",
@@ -1665,7 +1665,7 @@
             "modified": "2022-06-08T13:29:07.911Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "56<br/>De geboorte van Christus<br/>schilderij Matthias Gru\u0308newald, c. 1510-15, <br/>Isenheimer Altar"
+            "value": "56<br/>De geboorte van Christus<br/>schilderij Matthias Gru\u0308newald, c. 1510-15 <br/>Isenheimer Altar"
         }
     ],
     "id": "0b26c4ab-1d63-40d7-9f0b-b1c78846b82a.json",
@@ -1815,7 +1815,7 @@
             "modified": "2022-04-14T11:31:29.212Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "61<br/>Design For A Statue Of \u201cJohn Bull\u2019s Other Playwright.\u201d After Certain Hints By \u201cG.B.S.\u201d cartoon E.T. Reed voor Punch- magazine, 1906"
+            "value": "61<br/>Design For A Statue Of \u201cJohn Bull\u2019s Other Playwright.\u201d After Certain Hints By \u201cG.B.S.\u201d <br/>cartoon E.T. Reed voor Punch- magazine, 1906"
         }
     ],
     "id": "4e53957b-794c-4306-a3dd-83c1ac098178.json",
@@ -2025,7 +2025,7 @@
             "modified": "2022-04-14T11:32:40.649Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "68<br/>De vier apostelen \u2013 Johannes de Evangelist en Petrus (Die<br/>vier Apostel)<br/>schilderij Albrecht Du\u0308rer, 1526 \u2013 diptychon"
+            "value": "68<br/>De vier apostelen \u2013 fragment Johannes de Evangelist en Petrus<br/>schilderij Albrecht Du\u0308rer, linkerpaneel van diptiek, 1526"
         }
     ],
     "id": "f888d977-56e0-4e5d-8685-1a616e237520.json",
@@ -2115,7 +2115,7 @@
             "modified": "2022-06-08T13:31:06.249Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "71<br/>Het mystieke huwelijk van Sint-Catharina van Alexandrie\u0308 schilderij Bernardino Luini, c. 1520"
+            "value": "71<br/>Het mystieke huwelijk van Sint-Catharina van Alexandrie\u0308 <br/>schilderij Bernardino Luini, c. 1520"
         }
     ],
     "id": "c1849564-6a76-40c1-a567-9416e676bbd4.json",
@@ -2325,7 +2325,7 @@
             "modified": "2022-04-14T11:34:52.334Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "78<br/>Annunciazione<br/>schilderij Fra Angelico, c. 1438-45, <br/>San Marco, cel 3, Firenze"
+            "value": "78<br/>Annunciazione<br/>schilderij Fra Angelico, c. 1438-45, <br/>San Marcoklooster, cel 3, Firenze"
         }
     ],
     "id": "63dd652a-eb65-434d-9aea-93efc764c117.json",
@@ -2355,7 +2355,7 @@
             "modified": "2022-06-08T13:32:16.282Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "79<br/>Cantoria (fragment)<br/>reli\u00ebf Luca della Robbia, ca. 1435<br/>Kathedraal Firenze"
+            "value": "79<br/>Cantoria (fragment)<br/>reli\u00ebf Luca della Robbia, c. 1435<br/>Kathedraal Firenze"
         }
     ],
     "id": "05ea10af-3f29-4adc-9405-958652674eb0.json",
@@ -2415,7 +2415,7 @@
             "modified": "2022-06-08T13:33:07.890Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "81<br/>Adam Mickiewicz <br/>schilderij Jan Styka - <br/>prentbriefkaart"
+            "value": "81<br/>Adam Mickiewicz <br/>schilderij Jan Styka<br/>prentbriefkaart"
         }
     ],
     "id": "7c88e2eb-702b-4224-bd56-d7abe65a61b2.json",
@@ -2445,7 +2445,7 @@
             "modified": "2022-04-14T11:41:49.318Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "82<br/>Das Gastmahl des Plato, erste Fassung (Plato\u2019s Symposium) schilderij Anselm Feuerbach, 1869"
+            "value": "82<br/>Das Gastmahl des Plato, erste Fassung (Plato\u2019s Symposium) <br/>schilderij Anselm Feuerbach, 1869"
         }
     ],
     "id": "1113dd83-ba24-4242-b320-52ab9699dbac.json",
@@ -3195,7 +3195,7 @@
             "modified": "2022-04-14T11:46:27.774Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "107<br/>Jezus draagt het kruis<br/>prentbriefkaart Oberammergau Passionsspiele \u2013 serie 2, 1922"
+            "value": "107<br/>Jezus draagt het kruis<br/>prentbriefkaart Oberammergauer Passionsspiele, 1922"
         }
     ],
     "id": "66b32c74-a052-4e53-910a-156caf0506bb.json",
