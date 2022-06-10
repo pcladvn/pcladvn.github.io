@@ -105,7 +105,7 @@
             "modified": "2022-04-20T12:52:41.543Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "654<br/>August Cuppens?"
+            "value": "654<br/>August Cuppens (?)"
         }
     ],
     "id": "2319fe46-b922-4e09-ba5f-b4b6553be9bc.json",
@@ -255,7 +255,7 @@
             "modified": "2022-04-20T12:53:52.165Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "659<br/>\u201c[...] [dr?] Hugo Verriest / oude 73. / 28 oogst 1[914?] / Ing[ooigem] [...]<br/>originele tekening, (1914?)"
+            "value": "659<br/>Hugo Verriest<br/>krijttekening Jan Toorop, 1913<br/>opschrift \u201cPastoor dr Hugo Verriest.  Oud: 73. 28 oogst 1913. Ingooigem\u201c "
         }
     ],
     "id": "f6bc2fb6-fcf7-44bf-947e-76e7eccbcf3e.json",
@@ -645,7 +645,7 @@
             "modified": "2022-04-20T13:04:47.505Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "672<br/>Processie in Alveringem ?<br/>foto met o.a. Cyriel Verschaeve ?"
+            "value": "672<br/>Processie in Alveringem (?)<br/>foto met o.a. Cyriel Verschaeve (?)"
         }
     ],
     "id": "fe1c2a70-514d-4dfb-8fb1-a5d9c1eff194.json",
@@ -675,7 +675,7 @@
             "modified": "2022-04-20T13:06:10.034Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "673<br/>August Vermeylen?<br/>foto"
+            "value": "673<br/>August Vermeylen (?)<br/>foto"
         }
     ],
     "id": "63b11b3d-95dc-42a5-adec-9005e45b1ddb.json",
@@ -1815,7 +1815,7 @@
             "modified": "2022-04-20T13:18:16.592Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "711<br/>Enrico Caruso<br/>karikatuur [E. Burkard?]<br/>prentbriefkaart"
+            "value": "711<br/>Enrico Caruso<br/>karikatuur [E. Burkard ?]<br/>prentbriefkaart"
         }
     ],
     "id": "684f1de9-a1fe-400d-bde8-26bb24537773.json",
@@ -1935,7 +1935,7 @@
             "modified": "2022-04-20T13:20:24.706Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "715<br/>Het Laatste Avondmaal<br/>schilderij naar Leonardo da Vinci (Giovanni Pietro Rizzoli?, Andrea di Bartoli Solario?)"
+            "value": "715<br/>Het Laatste Avondmaal<br/>schilderij naar Leonardo da Vinci (Giovanni Pietro Rizzoli ?, Andrea di Bartoli Solario ?)"
         }
     ],
     "id": "10c92796-dfa1-4c5a-8b46-e72183eac1c9.json",
