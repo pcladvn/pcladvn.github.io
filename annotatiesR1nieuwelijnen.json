@@ -15,7 +15,7 @@
             "modified": "2022-06-08T16:32:32.156Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "TEST1<br/>Berberleeuw, dierstudie, Zoo van Keulen<br/>foto A. J. W. de Veer \"L\u00f6we\"<br/>prentbriefkaart"
+            "value": "1<br/>Berberleeuw, dierstudie, Zoo van Keulen<br/>foto A. J. W. de Veer \"L\u00f6we\"<br/>prentbriefkaart"
         }
     ],
     "id": "3452898b-611e-42a7-a34f-e4a93510f36d.json",
@@ -45,7 +45,7 @@
             "modified": "2022-06-08T06:54:00.834Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "2 <br/>Ignudi <br/>fresco Michelangelo, 1508-12<br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "2 <br/>Ignudi <br/>fresco Michelangelo, 1508-1512<br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "6c751a32-49ec-46d4-bae0-2af04c74e04e.json",
@@ -165,7 +165,7 @@
             "modified": "2022-04-14T10:58:51.272Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "6<br/>Ignudi<br/>fresco Michelangelo, 1508-12<br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "6<br/>Ignudi<br/>fresco Michelangelo, 1508-1512<br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "a73c37a7-b00f-459f-b28e-64081b6a8130.json",
@@ -405,7 +405,7 @@
             "modified": "2022-04-14T11:01:55.438Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "14<br/>Ezechi\u00ebl<br/>fresco Michelangelo, 1508-12 <br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "14<br/>Ezechi\u00ebl<br/>fresco Michelangelo, 1508-1512 <br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "1d47d676-c07d-45c5-983d-06dc84c99f04.json",
@@ -1365,7 +1365,7 @@
             "modified": "2022-04-14T11:26:44.994Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "46<br/>De zondeval & De verdrijving uit het paradijs<br/>fresco Michelangelo, 1508-12<br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "46<br/>De zondeval & De verdrijving uit het paradijs<br/>fresco Michelangelo, 1508-1512<br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "93a45165-d3f3-4738-9fa0-803003fb7c89.json",
@@ -2385,7 +2385,7 @@
             "modified": "2022-04-14T11:40:10.887Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "80<br/>Het offer van Noah (fragment)<br/>fresco Michelangelo, 1508-1502,<br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "80<br/>Het offer van Noah (fragment)<br/>fresco Michelangelo, 1508-1512<br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "88a1e4c9-5224-429e-a984-920531a9c7e3.json",
