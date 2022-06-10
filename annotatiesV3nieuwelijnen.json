@@ -2464,6 +2464,36 @@
     "id": "645104ee-7d70-4660-86c9-6c8324a4ff8c.json",
     "motivation": "commenting"
 },{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "733",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-04-04T12:59:28.615Z",
+            "modified": "2022-04-04T12:59:32.204Z"
+        }
+    ],
+    "target": {
+        "source": "http://e8b978b6-43ac-4843-b839-0edeaca92990",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4478.53271484375,16167.9892578125,378.88037109375,1026.9443359375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "34aaef61-1a05-460a-afd5-6f072a4fb7b6.json",
+    "motivation": "commenting"
+},{
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
@@ -3243,34 +3273,4 @@
         "source": "http://e8b978b6-43ac-4843-b839-0edeaca92990"
     },
     "type": "Annotation"
-},{
-    "type": "Annotation",
-    "body": [
-        {
-            "type": "TextualBody",
-            "value": "733",
-            "purpose": "identifying",
-            "creator": {
-                "id": "pcladvn",
-                "name": "pcladvn"
-            },
-            "created": "2022-04-04T12:59:28.615Z",
-            "modified": "2022-04-04T12:59:32.204Z"
-        }
-    ],
-    "target": {
-        "source": "http://e8b978b6-43ac-4843-b839-0edeaca92990",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=4478.53271484375,16167.9892578125,378.88037109375,1026.9443359375"
-        },
-        "dcterms:isPartOf": {
-            "id": "https://pcladvn.github.io/manifest.json",
-            "type": "Manifest"
-        }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "34aaef61-1a05-460a-afd5-6f072a4fb7b6.json",
-    "motivation": "commenting"
 }] }
