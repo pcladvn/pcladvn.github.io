@@ -405,7 +405,7 @@
             "modified": "2022-04-14T14:13:42.229Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "314<br/>De profeet Jeremiah<br/>fresco Michelangelo, 1508-12<br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "314<br/>De profeet Jeremiah<br/>fresco Michelangelo, 1508-1512<br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "25f8ed2c-a1a8-4557-a308-a8ca988b14a5.json",
@@ -933,6 +933,36 @@
         "source": "http://49ab30c4-b83d-41a2-9edc-a772f8086600"
     },
     "type": "Annotation"
+},{
+     "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "332<br/>Cena a Casa di Levi<br/>schilderij Paolo Veronese, 1573",
+            "purpose": "identifying",
+            "creator": {
+                "id": "pcladvn",
+                "name": "pcladvn"
+            },
+            "created": "2022-04-14T14:51:38.694Z",
+            "modified": "2022-04-14T14:51:42.304Z"
+        }
+    ],
+    "target": {
+        "source": "http://49ab30c4-b83d-41a2-9edc-a772f8086600",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=141.24925231933594,7975.9228515625,1529.077407836914,618.384765625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://pcladvn.github.io/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "571c6862-cb99-4a71-a496-9252a4814284.json",
+    "motivation": "commenting"
 },{
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
@@ -2595,7 +2625,7 @@
             "modified": "2022-04-14T15:12:07.424Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "388<br/>God schept Adam<br/>fresco Michelangelo, 1508-12<br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "388<br/>God schept Adam<br/>fresco Michelangelo, 1508-1512<br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "93281278-e046-4fdf-95a9-5440d1bf0164.json",
@@ -2673,36 +2703,6 @@
         "source": "http://49ab30c4-b83d-41a2-9edc-a772f8086600"
     },
     "type": "Annotation"
-},{
-    "type": "Annotation",
-    "body": [
-        {
-            "type": "TextualBody",
-            "value": "332<br/>Cena a Casa di Levi<br/>schilderij Paolo Veronese, 1573",
-            "purpose": "identifying",
-            "creator": {
-                "id": "pcladvn",
-                "name": "pcladvn"
-            },
-            "created": "2022-04-14T14:51:38.694Z",
-            "modified": "2022-04-14T14:51:42.304Z"
-        }
-    ],
-    "target": {
-        "source": "http://49ab30c4-b83d-41a2-9edc-a772f8086600",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=141.24925231933594,7975.9228515625,1529.077407836914,618.384765625"
-        },
-        "dcterms:isPartOf": {
-            "id": "https://pcladvn.github.io/manifest.json",
-            "type": "Manifest"
-        }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "571c6862-cb99-4a71-a496-9252a4814284.json",
-    "motivation": "commenting"
 },{
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
