@@ -45,7 +45,7 @@
             "modified": "2022-04-20T07:10:48.209Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "567<br/>beeldhouwwerk Cyriel Verschaeve?"
+            "value": "567<br/>beeldhouwwerk Cyriel Verschaeve (?)"
         }
     ],
     "id": "067e5ff0-c5ce-49d6-8b91-5b203f905eea.json",
@@ -315,7 +315,7 @@
             "modified": "2022-04-20T07:14:50.845Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "576<br/>[ontwerp voor beeld Verschaeve] ?<br/>cf. Doryphoros (Speerdrager), beeldhouwwerk Polykleitos, c. 450-440 v.C."
+            "value": "576<br/>[ontwerp voor beeld Verschaeve]<br/>cf. Doryphoros (Speerdrager), beeldhouwwerk Polykleitos, c. 450-440 v.C."
         }
     ],
     "id": "d272a764-6b98-4684-8812-32ec3bc3fe41.json",
@@ -855,7 +855,7 @@
             "modified": "2022-04-20T08:26:21.478Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "594<br/>[Christus aan het kruis]<br/>schilderij ?"
+            "value": "594<br/>[Christus aan het kruis]<br/>schilderij (?)"
         }
     ],
     "id": "4b57960a-ea3a-4ca7-a52e-e01b02100f03.json",
@@ -1275,7 +1275,7 @@
             "modified": "2022-04-20T08:30:14.334Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "608<br/>Richard Wagner<br/>silhouettekening Willi Bithorn, 1938?"
+            "value": "608<br/>Richard Wagner<br/>silhouettekening Willi Bithorn, 1938 (?)"
         }
     ],
     "id": "5b573636-1b5a-4dad-a93c-660fee8a5b89.json",
@@ -1305,7 +1305,7 @@
             "modified": "2022-04-20T08:33:39.288Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "609<br/>Hans Holbein de jongere<br/>naar zelfportret?"
+            "value": "609<br/>Hans Holbein de jongere<br/>naar zelfportret (?)"
         }
     ],
     "id": "ed9d55e8-1cc8-4e6c-863a-f028950696d9.json",
@@ -1935,7 +1935,7 @@
             "modified": "2022-04-20T12:27:43.569Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "630<br/>Pagode in Suzhou?<br/>prentbriefkaart"
+            "value": "630<br/>Pagode in Suzhou (?)<br/>prentbriefkaart"
         }
     ],
     "id": "1247e4a9-9a86-4893-8794-1d799f349210.json",
