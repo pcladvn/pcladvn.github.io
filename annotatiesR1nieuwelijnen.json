@@ -435,7 +435,7 @@
             "modified": "2022-04-14T11:02:09.096Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "15<br/>o.a. Hugo Verriest ?<br/>foto"
+            "value": "15<br/>o.a. Hugo Verriest (?)<br/>foto"
         }
     ],
     "id": "eb77deff-33cc-4319-b6d4-487dd30f8543.json",
@@ -555,7 +555,7 @@
             "modified": "2022-04-14T11:03:12.253Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "19<br/>Frans Van Cauwelaert?"
+            "value": "19<br/>Frans Van Cauwelaert (?)"
         }
     ],
     "id": "7cf4bf33-0bfa-41c3-b266-4ad52397ab05.json",
