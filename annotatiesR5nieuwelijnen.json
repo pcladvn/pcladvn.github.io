@@ -15,7 +15,7 @@
             "modified": "2022-04-17T11:59:52.686Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "392<br/>Ponte di Rialto<br/>prentbriefkaart [\u201c16. Venezia \u2013 Ponte di Rialto / Cartolina postale / Post Card \u2013 Carte postale<br/>\u2013 Postkarte / Union Postale Universelle\u201d ?]<br/>"
+            "value": "392<br/>Ponte di Rialto<br/>prentbriefkaart"
         }
     ],
     "id": "51f0e52c-b451-41d5-8a32-297d5cae949f.json",
@@ -375,7 +375,7 @@
             "modified": "2022-04-17T12:17:05.129Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "404<br/>Musicerende engel met tamboerijn<br/>schilderij Fra Angelico, c. 1433, voor Tabernacolo dei Linaioli (Lorenzo Ghiberti)"
+            "value": "404<br/>Musicerende engel met tamboerijn<br/>schilderij Fra Angelico, c. 1433<br/>voor Tabernacolo dei Linaioli (Lorenzo Ghiberti)"
         }
     ],
     "id": "86a2c328-7ef1-45da-99d6-6be25a6904bb.json",
@@ -525,7 +525,7 @@
             "modified": "2022-04-17T12:18:32.707Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "409<br/>Vijanden<br/>schilderij Paul Thiem, voor 1922"
+            "value": "409<br/>Vijanden<br/>schilderij Paul Thiem, vóór 1922"
         }
     ],
     "id": "5f80131c-f00d-4d5f-a8fc-ce2b156ba887.json",
@@ -705,7 +705,7 @@
             "modified": "2022-04-17T12:22:37.823Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "415<br/>Sacrificio di Isacco<br/>schilderij Andrea Mantegna, c.<br/>1460 (detail)"
+            "value": "415<br/>Sacrificio di Isacco, detail<br/>schilderij Andrea Mantegna, c. 1460"
         }
     ],
     "id": "8611eab0-7475-4174-a643-d1264cb0133d.json",
@@ -765,7 +765,7 @@
             "modified": "2022-04-17T12:24:30.399Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "417<br/>Aartshertogin Isabella en Sint-Elisabeth van Hongarije<br/>schilderij Peter Paul Rubens (rechterpaneel van triptiek van Sint-Ildefonso), 1630-32"
+            "value": "417<br/>Aartshertogin Isabella en Sint-Elisabeth van Hongarije<br/>schilderij Peter Paul Rubens, 1630-1632<br/>rechterpaneel triptiek van Sint-Ildefonso"
         }
     ],
     "id": "05713f80-c0fb-4372-812a-bd6923d8a96e.json",
@@ -1065,7 +1065,7 @@
             "modified": "2022-05-11T09:01:19.319Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "427<br/>Vexilla Regis(ChristusKoning, Kruisstandaarddrager, Christus Triomphans)<br/>beeldhouwwerk Cyriel Verschaeve, 1935"
+            "value": "427<br/>Vexilla Regis (Christus Koning, Kruisstandaarddrager, Christus Triomphans)<br/>beeldhouwwerk Cyriel Verschaeve, 1935"
         }
     ],
     "id": "cf229eba-ccdb-4f9c-8922-13394afe8752.json",
@@ -1305,7 +1305,7 @@
             "modified": "2022-04-17T12:37:52.208Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "435<br/>Aphrodite<br/>beeldhouwwerk Praxiteles (origineel c. 360 v.c.)"
+            "value": "435<br/>Aphrodite<br/>beeldhouwwerk Praxiteles, origineel c. 360 v.c."
         }
     ],
     "id": "4668cb66-4797-4eaa-81a0-97761fc06757.json",
@@ -1365,7 +1365,7 @@
             "modified": "2022-04-17T12:38:29.067Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "437<br/>De profeet Jesaja<br/>fresco Michelangelo, 1508-12, <br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "437<br/>De profeet Jesaja<br/>fresco Michelangelo, 1508-12<br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "f2cb23d3-68c1-4ea2-bde8-e2a03c5f9469.json",
@@ -1485,7 +1485,7 @@
             "modified": "2022-04-17T12:41:49.162Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "441<br/>Aartshertog Albrecht en Sint- Albrecht<br/>schilderij Peter Paul Rubens (linkerpaneel van triptiek van Sint-Ildefonso), 1630-32"
+            "value": "441<br/>Aartshertog Albrecht en Sint-Albrecht<br/>schilderij Peter Paul Rubens, 1630-1632<br/>linkerpaneel triptiek van Sint-Ildefonso"
         }
     ],
     "id": "088e2790-62f0-43c3-9420-ab7031dfed16.json",
@@ -2025,7 +2025,7 @@
             "modified": "2022-05-11T09:03:51.121Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "459<br/>Pjotr Iljitsj Tsjaikovski<br/>schilderij H. Serov (Seroff) \u2013 prentbriefkaart F.A. Ackermanns Kunstverlag, serie 160 (12 Komponisten)"
+            "value": "459<br/>Pjotr Iljitsj Tsjaikovski<br/>schilderij H. Serov (Seroff)<br/>prentbriefkaart F.A. Ackermanns Kunstverlag, serie 160 (12 Komponisten)"
         }
     ],
     "id": "27009ebf-53f6-4f93-83e9-d22da403d2fd.json",
@@ -2055,7 +2055,7 @@
             "modified": "2022-05-11T09:04:06.573Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "460<br/>Keizer Kangxi<br/>[prentbriefkaart \u201cKang-hi \u2013 2e<br/>\u2013 Keizer van \u2013 Empereur de \u2013 F. Verbiest\u201d / Eigendom van het Verbiest Comiteit \u2013 Proprie\u0301te du Comite\u0301]"
+            "value": "460<br/>Keizer Kangxi<br/>prentbriefkaart Ferdinand Verbiest"
         }
     ],
     "id": "808690be-9f12-43a5-bacc-b238aa989acb.json",
@@ -2115,7 +2115,7 @@
             "modified": "2022-04-17T12:48:57.171Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "462<br/>De scheiding van aarde en water<br/>fresco Michelangelo, 1508-12,<br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "462<br/>De scheiding van aarde en water<br/>fresco Michelangelo, 1508-12<br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "1dd733f7-9cb6-401e-abc9-de01b38fbf18.json",
@@ -2175,7 +2175,7 @@
             "modified": "2022-04-17T12:51:43.744Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "464<br/>Darmstadt Madonna<br/>schilderij Hans Holbein de Jonge, 1526-8"
+            "value": "464<br/>Darmstadt Madonna<br/>schilderij Hans Holbein de Jonge, 1526-1528"
         }
     ],
     "id": "92ac6599-0469-4164-8225-c9dd3e675797.json",
