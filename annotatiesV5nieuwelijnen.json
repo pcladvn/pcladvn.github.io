@@ -15,7 +15,7 @@
             "modified": "2022-04-25T07:35:41.523Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "849<br/>\u201cgidosuni de tha\u0301lassa dii\u0308stato \u2013 Ji. VIII 29\u201d (?)<br/>schilderij Centauren en Sirenen in zee"
+            "value": "849<br/>\u201cgidosuni de tha\u0301lassa dii\u0308stato \u2013 Ji. VIII 29\u201d?<br/>schilderij Centauren en Sirenen in zee"
         }
     ],
     "id": "b214a4d1-da40-4461-b983-5ce068bb1383.json",
@@ -45,7 +45,7 @@
             "modified": "2022-04-25T07:41:04.946Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "850<br/>De schepping van zon en maan<br/>fresco Michelangelo, 1508-12, <br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "850<br/>De schepping van zon en maan<br/>fresco Michelangelo, 1508-12<br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "75d98471-4aec-4192-a568-3f8dcc97059e.json",
@@ -105,7 +105,7 @@
             "modified": "2022-04-25T07:36:24.367Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "852<br/>De Heilige Familie<br/>schilderij Lucas Cranach de Oude, 1529, rechterluik van altaarstuk De Heilige Familie, Torgauer Altar"
+            "value": "852<br/>De Heilige Familie<br/>schilderij Lucas Cranach de Oude, 1529<br/>rechterluik van altaarstuk De Heilige Familie, Torgauer Altar"
         }
     ],
     "id": "31e3db14-dca7-4708-bb36-d28885d32ec8.json",
@@ -135,7 +135,7 @@
             "modified": "2022-04-25T07:36:33.293Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "853<br/>Cesar Franck<br/>foto Jeanne Rongier, 1885 \u2013 prentbriefkaart"
+            "value": "853<br/>Cesar Franck<br/>foto Jeanne Rongier, 1885<br/>prentbriefkaart"
         }
     ],
     "id": "92953f70-6529-4769-840c-7473f8a0e001.json",
@@ -165,7 +165,7 @@
             "modified": "2022-04-25T07:36:40.756Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "854<br/>Annunciazione<br/>fresco Fra Angelico, c. 1438-45, San Marco, del 3, Firenze"
+            "value": "854<br/>Annunciazione<br/>fresco Fra Angelico, c. 1438-45<br/>San Marcoklooster, cel 3, Firenze"
         }
     ],
     "id": "772683ac-250a-4c9a-a616-21e1e7b0146a.json",
@@ -195,7 +195,7 @@
             "modified": "2022-04-25T07:37:07.618Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "855<br/>Portret van Saskia van Uylenburgh<br/>Rembrandt van Rijn, c. 1633/34-1642"
+            "value": "855<br/>Portret van Saskia van Uylenburgh<br/>Rembrandt van Rijn, c. 1633-1642"
         }
     ],
     "id": "9e644c88-092d-4a7e-b747-b03a8bdff240.json",
@@ -255,7 +255,7 @@
             "modified": "2022-04-25T07:40:56.252Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "857<br/>De scheiding van aarde en water<br/>fresco Michelangelo, 1508-12,<br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "857<br/>De scheiding van aarde en water<br/>fresco Michelangelo, 1508-1512<br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "ac184c0d-3a32-4a0e-abb2-41aa4ab555f0.json",
@@ -405,7 +405,7 @@
             "modified": "2022-04-25T07:42:38.182Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "862<br/>The Age of Innocence<br/>schilderij Joshua Reynolds, 1785/88"
+            "value": "862<br/>De leeftijd van onschuld<br/>schilderij Joshua Reynolds, 1785-1788"
         }
     ],
     "id": "262de367-9118-499f-9e4a-d782e2ea1397.json",
@@ -435,7 +435,7 @@
             "modified": "2022-04-25T07:43:26.506Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "863<br/>Franciscus preekt voor de vogels <br/>fresco Giotto, 1297/99<br/>"
+            "value": "863<br/>Franciscus preekt voor de vogels <br/>fresco Giotto, 1297-1299<br/>"
         }
     ],
     "id": "a0fb5986-e989-43ab-9894-ea9f9909acee.json",
@@ -495,7 +495,7 @@
             "modified": "2022-04-25T07:44:04.391Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "865<br/>(Neue) Salome\u0301<br/>beeldhouwwerk Max Klinger, 1887/88 prentbriefkaart (Verlag Seemann Nr. 124 AK)"
+            "value": "865<br/>(Neue) Salome\u0301<br/>beeldhouwwerk Max Klinger, 1887/88<br/>prentbriefkaart, Verlag Seemann Nr. 124 AK"
         }
     ],
     "id": "f8594c84-ba9f-43c7-b1fa-9aab39c9edde.json",
@@ -555,7 +555,7 @@
             "modified": "2022-04-25T07:44:38.234Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "867<br/>Kain en Abel<br/>schilderij (omgeving) [Hans von Mare\u0301es]"
+            "value": "867<br/>Kain en Abel<br/>schilderij (omgeving) Hans von Mare\u0301es"
         }
     ],
     "id": "c770d170-ca06-4401-af60-a82aaf096321.json",
@@ -675,7 +675,7 @@
             "modified": "2022-04-25T07:45:41.757Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "871<br/>Niccolo\u0300 Machiavelli<br/>beeldhouwwerk Lorenzo Bartolini, Uffizi-Galerij, Firenze, Italie\u0308"
+            "value": "871<br/>Niccolo\u0300 Machiavelli<br/>beeldhouwwerk Lorenzo Bartolini<br/>Uffizi-Galerij, Firenze, Italie\u0308"
         }
     ],
     "id": "0fe62ded-7c18-4a26-8ba5-10008993b608.json",
@@ -1035,7 +1035,7 @@
             "modified": "2022-04-25T08:01:16.191Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "883<br/>De Libische Sybille<br/>fresco Michelangelo, 1508-12, <br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "883<br/>De Libische Sybille<br/>fresco Michelangelo, 1508-1512 <br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "7dfbceac-6d22-49cf-8a5a-45eadc6b89ed.json",
@@ -1365,7 +1365,7 @@
             "modified": "2022-04-25T08:03:08.617Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "894<br/>Neuschwanstein<br/>foto (?), c. 1900 (?)"
+            "value": "894<br/>Neuschwanstein<br/>foto, c. 1900"
         }
     ],
     "id": "355e1cce-f9e6-4f0d-b4c8-e05a7257a2cd.json",
@@ -1485,7 +1485,7 @@
             "modified": "2022-04-25T08:05:01.481Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "898<br/>Mignon<br/>schilderij Georg Buchner <br/>\u2013 prentbriefkaart Seemann Verlag, No. 2"
+            "value": "898<br/>Mignon<br/>schilderij Georg Buchner <br/>prentbriefkaart Seemann Verlag, No. 2"
         }
     ],
     "id": "1fdbaebc-9933-43b0-9c70-75e7f198e670.json",
@@ -1545,7 +1545,7 @@
             "modified": "2022-04-25T08:05:37.953Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "900<br/>Lev Tolstoj<br/>schilderij Jan Styka, 1905 (?)"
+            "value": "900<br/>Lev Tolstoj<br/>schilderij Jan Styka, 1905?"
         }
     ],
     "id": "9998bdb1-3b21-4db9-b95a-921fc5acdb44.json",
@@ -1575,7 +1575,7 @@
             "modified": "2022-04-25T08:05:52.428Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "901<br/>De kettinghond<br/>schilderij Paulus Potter, c. 1650/54 \u2013fragment"
+            "value": "901<br/>De kettinghond<br/>schilderij Paulus Potter, c. 1650-1654, fragment"
         }
     ],
     "id": "0d2527a8-e507-441a-b40f-1ec982fe0c38.json",
@@ -1635,7 +1635,7 @@
             "modified": "2022-04-25T08:06:11.288Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "903<br/>Polyhymnia<br/>schilderij Francesco del Cossa, c. 1455-60"
+            "value": "903<br/>Polyhymnia<br/>schilderij Francesco del Cossa, c. 1455-1460"
         }
     ],
     "id": "251c8e0b-3adf-478d-aece-6bfd4136a4d3.json",
@@ -1665,7 +1665,7 @@
             "modified": "2022-05-11T12:14:04.678Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "904<br/>Die Waldkapelle<br/>schilderij Moritz von Schwind, 1850/55"
+            "value": "904<br/>De boskapel<br/>schilderij Moritz von Schwind, 1850-1855"
         }
     ],
     "id": "4ac6de8f-165c-49fc-914b-e5b6c6485a23.json",
@@ -1695,7 +1695,7 @@
             "modified": "2022-04-25T08:07:41.370Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "905<br/>Lorenzo II de Medici<br/>beeldhouwwerk Michelangelo, <br/>Sint-Laurenbasiliek, Firenze"
+            "value": "905<br/>Lorenzo II de Medici<br/>beeldhouwwerk Michelangelo<br/>Sint-Laurenbasiliek, Firenze"
         }
     ],
     "id": "bf8ad633-1225-456f-bfdb-d4bb945ebc51.json",
@@ -1935,7 +1935,7 @@
             "modified": "2022-04-25T08:10:22.785Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "913<br/>Jezus verschijnt voor Pontius Pilatus<br/>prentbriefkaart Oberammergau Passionsspiele \u2013 serie III no. 18, 1922"
+            "value": "913<br/>Jezus verschijnt voor Pontius Pilatus<br/>prentbriefkaart Oberammergauer Passionsspiele, serie III no. 18, 1922"
         }
     ],
     "id": "8a3f494a-65ac-46ec-b444-0ad2d2f0d1ab.json",
@@ -2055,7 +2055,7 @@
             "modified": "2022-04-25T08:12:40.960Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "917<br/>Sint-Joris<br/>schilderij Albrecht Du\u0308rer, c. 1500, linkerluik binnengedeelte triptiek Paumgarten Altar (Katharinen, Nuremberg) [= 832]"
+            "value": "917<br/>Sint-Joris<br/>schilderij Albrecht Du\u0308rer, c. 1500<br/>linkerluik binnengedeelte triptiek Paumgarten Altar (Katharinen, Nuremberg) [= 832]"
         }
     ],
     "id": "a2eed969-8a56-4e0d-8585-b6417438085a.json",
@@ -2235,7 +2235,7 @@
             "modified": "2022-04-25T08:15:24.617Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "923<br/>Der Sieg Karls des Gro\u00dfen u\u0308ber die Sarazenen bei Co\u0301rdoba<br/>schilderij Alfred Rethel, 1849/50"
+            "value": "923<br/>Der Sieg Karls des Gro\u00dfen u\u0308ber die Sarazenen bei Co\u0301rdoba<br/>schilderij Alfred Rethel, 1849-1850"
         }
     ],
     "id": "3d9a5d2e-d2ee-4130-a8cb-6f22c38a50b7.json",
@@ -2565,7 +2565,7 @@
             "modified": "2022-04-25T08:17:05.103Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "934<br/>[Keulen]<br/>prentbriefkaart (?)"
+            "value": "934<br/>[Keulen]<br/>prentbriefkaart?"
         }
     ],
     "id": "1933c832-ca2e-4aca-bcad-64c7c0387796.json",
