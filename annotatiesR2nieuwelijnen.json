@@ -105,7 +105,7 @@
             "modified": "2022-04-14T12:38:56.869Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "111<br/>Dante Alighieri<br/>chromolitho naar fresco van Giotto di Bondone -<br/>prentbriefkaart Meissner & Buch"
+            "value": "111<br/>Dante Alighieri<br/>chromolitho naar fresco van Giotto di Bondone<br/>prentbriefkaart Meissner & Buch"
         }
     ],
     "id": "cd7c00f6-c382-42d3-9c10-05490ccfeda3.json",
@@ -165,7 +165,7 @@
             "modified": "2022-04-14T12:38:03.097Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "113<br/>De overgave van Breda<br/>schilderij Diego Vela\u0301zquez, 1634/35"
+            "value": "113<br/>De overgave van Breda<br/>schilderij Diego Vela\u0301zquez, 1634-1635"
         }
     ],
     "id": "f78c25de-15d2-4845-b032-1c7c2a1622ff.json",
@@ -195,7 +195,7 @@
             "modified": "2022-04-14T12:38:14.947Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "114<br/>Moeder en kind<br/>schilderij Friedrich August von Kaulbach \u2013 prentbriefkaart [Verlag Seemann ?]"
+            "value": "114<br/>Moeder en kind<br/>schilderij Friedrich August von Kaulbach<br/>prentbriefkaart [Verlag Seemann ?]"
         }
     ],
     "id": "22831dcb-7ebb-4dd1-acf4-0f3c21968999.json",
@@ -435,7 +435,7 @@
             "modified": "2022-04-14T12:40:33.703Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "122<br/>Tondo<br/>beeldhouwwerk Andrea della Robbia, c. 1490, Ospedale degli Innocenti, Firenze"
+            "value": "122<br/>Tondo<br/>beeldhouwwerk Andrea della Robbia, c. 1490<br/>Ospedale degli Innocenti, Firenze"
         }
     ],
     "id": "c46bf20c-f8d0-4528-ad67-bcb3a8445c77.json",
@@ -495,7 +495,7 @@
             "modified": "2022-04-14T12:41:03.605Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "124<br/>L\u2019Amour au the\u0301a\u0302tre franc\u0327ais ou La Come\u0301die franc\u0327aise schilderij Antoine Watteau, 1714"
+            "value": "124<br/>L\u2019Amour au the\u0301a\u0302tre franc\u0327ais ou La Come\u0301die franc\u0327aise<br/>schilderij Antoine Watteau, 1714"
         }
     ],
     "id": "7b904e9b-cfcc-4a9b-8f1c-f44b642e4c49.json",
@@ -555,7 +555,7 @@
             "modified": "2022-04-14T12:41:38.070Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "126<br/>Pennische Alpen<br/>schilderij Edward Theodore Compton \u2013 <br/>prentbriefkaart"
+            "value": "126<br/>Pennische Alpen<br/>schilderij Edward Theodore Compton<br/>prentbriefkaart"
         }
     ],
     "id": "043202b7-157c-47e2-9c13-56b20188b560.json",
@@ -675,7 +675,7 @@
             "modified": "2022-04-14T12:43:02.377Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "130<br/>Bergfu\u0308hrer<br/>schilderij Wilhelm Emil (Elk) Eber,<br/>[c. 1924] \u2013 prentbriefkaart"
+            "value": "130<br/>Bergfu\u0308hrer<br/>schilderij Wilhelm Emil (Elk) Eber, c. 1924<br/>prentbriefkaart"
         }
     ],
     "id": "525678c5-551c-4193-a721-5c702b7fbd6d.json",
@@ -705,7 +705,7 @@
             "modified": "2022-04-14T12:43:30.990Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "131<br/>De jonge stier<br/>schilderij Paulus Potter, c. 1647<br/>- fragment"
+            "value": "131<br/>De jonge stier<br/>schilderij Paulus Potter, c. 1647<br/>fragment"
         }
     ],
     "id": "1379e3bb-24fa-4082-9390-4c296e882d37.json",
@@ -915,7 +915,7 @@
             "modified": "2022-06-08T13:43:01.981Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "138<br/>Ph\u00e8dre \u00e0 la cour de Versailles 1695<br/>naar 1695 Grand Si\u00e8cle - Audition d\u2019une trag\u00e9die de Racine \u00e0 la Cour de Versailles, ets Gustave Dor\u00e9"
+            "value": "138<br/>Ph\u00e8dre \u00e0 la cour de Versailles 1695<br/>ets Gustave Dor\u00e9, naar 1695 Grand Si\u00e8cle - Audition d\u2019une trag\u00e9die de Racine \u00e0 la Cour de Versailles"
         }
     ],
     "id": "e31f11c4-39cb-4efc-b474-725063e093ba.json",
@@ -945,7 +945,7 @@
             "modified": "2022-06-08T13:43:27.028Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "139<br/>Christus aan het kruis <br/>schilderij Diego Vel\u00e1zquez, c. 180 1632"
+            "value": "139<br/>Christus aan het kruis <br/>schilderij Diego Vel\u00e1zquez, c. 1632"
         }
     ],
     "id": "a43f53f7-3799-4d29-83d7-a819fb60e105.json",
@@ -1095,7 +1095,7 @@
             "modified": "2022-04-14T13:02:50.350Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "144<br/>Eichen im Sturm<br/>schilderij Alexandre Calame - <br/>prentbriefkaart (Seemann no. 8)"
+            "value": "144<br/>Eichen im Sturm<br/>schilderij Alexandre Calame<br/>prentbriefkaart, Seemann no. 8"
         }
     ],
     "id": "6e8635ef-fdd5-4e5e-8e06-ee5b3d5c37f9.json",
@@ -1185,7 +1185,7 @@
             "modified": "2022-04-14T13:03:37.090Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "147<br/>Fjodor Dostojevski<br/>houtsnede Felix Edouard<br/>Vallotton, 1895"
+            "value": "147<br/>Fjodor Dostojevski<br/>houtsnede Felix Edouard Vallotton, 1895"
         }
     ],
     "id": "e65a721c-d67c-4b05-8189-14b19fc79cc8.json",
@@ -1215,7 +1215,7 @@
             "modified": "2022-06-08T13:45:43.593Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "148<br/>\"A Corner of the Parthenon\u201d<br/>prentbriefkaart (H.B. Teubner Verlag)"
+            "value": "148<br/>\"A Corner of the Parthenon\u201d<br/>prentbriefkaart, H.B. Teubner Verlag"
         }
     ],
     "id": "929e91e9-d65a-40ee-a2e8-fbeba3e65f7d.json",
@@ -1605,7 +1605,7 @@
             "modified": "2022-04-14T13:07:35.175Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "161<br/>Het Laatste Oordeel<br/>schilderij Michelangelo, 1536-41, <br/>Sixtijnse Kapel, Rome"
+            "value": "161<br/>Het Laatste Oordeel<br/>schilderij Michelangelo, 1536-41<br/>Sixtijnse Kapel, Rome"
         }
     ],
     "id": "0b72310e-03b1-4032-b462-eb7548f07543.json",
@@ -1635,7 +1635,7 @@
             "modified": "2022-04-14T13:08:13.362Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "162<br/>Sokol Prag[ue]\u201d<br/>marcherende gymnasten op Sokol-manifestatie \u2013 <br/>foto uit krant (?)"
+            "value": "162<br/>Sokol Prag[ue]\u201d<br/>marcherende gymnasten op Sokol-manifestatie<br/>foto uit krant (?)"
         }
     ],
     "id": "bea2299c-a950-45e7-9063-b5adff961789.json",
@@ -1875,7 +1875,7 @@
             "modified": "2022-04-14T13:09:28.261Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "170<br/>Aanbidding der wijzen<br/>schilderij Hugo Van der Goes, c. 1470/75"
+            "value": "170<br/>Aanbidding der wijzen<br/>schilderij Hugo Van der Goes, c. 1470-75"
         }
     ],
     "id": "a73f0e16-788d-42ee-b3cd-3d488361a270.json",
@@ -2325,7 +2325,7 @@
             "modified": "2022-04-14T13:12:53.932Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "185<br/>Madonna Magnificat<br/>schilderij Sandro Botticelli, 1480/81"
+            "value": "185<br/>Madonna Magnificat<br/>schilderij Sandro Botticelli, 1480-1481"
         }
     ],
     "id": "fcbf8eb8-973b-4857-b529-ce9907fb42c0.json",
@@ -2655,7 +2655,7 @@
             "modified": "2022-04-14T13:16:31.459Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "196<br/>Il Parco degli Acquedotti, Roma<br/>(met restanten van de Acquedotto Claudio) \u2013 prentbriefkaart, 1910"
+            "value": "196<br/>Il Parco degli Acquedotti, Roma<br/>prentbriefkaart, 1910"
         }
     ],
     "id": "88774e42-5f2c-46c4-b014-e5bb5de0292b.json",
@@ -2775,7 +2775,7 @@
             "modified": "2022-04-14T13:17:31.836Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "200<br/>Tondo<br/>beeldhouwwerk Andrea della Robbia, c. 1490, <br/>Ospedale degli Innocenti, Firenze"
+            "value": "200<br/>Tondo<br/>beeldhouwwerk Andrea della Robbia, c. 1490<br/>Ospedale degli Innocenti, Firenze"
         }
     ],
     "id": "d63876ef-dfa1-4c4b-b87b-7532da93cd17.json",
@@ -2835,7 +2835,7 @@
             "modified": "2022-04-14T13:17:53.357Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "202<br/>Graffiguur<br/>beeldhouwerk Juliaan Dillens, c. 1885/90"
+            "value": "202<br/>Graffiguur<br/>beeldhouwerk Juliaan Dillens, c. 1885-1890"
         }
     ],
     "id": "7776612a-0dde-4ab4-be90-07b2f6e2da2e.json",
@@ -3008,7 +3008,7 @@
     "body": [
         {
             "type": "TextualBody",
-            "value": "208<br/>Maria verschijnt aan Sint-Ildefonso<br/>schilderij Peter Paul Rubens, middenpaneel van triptiek van Sint-Ildefonso, 1630-32",
+            "value": "208<br/>Maria verschijnt aan Sint-Ildefonso<br/>schilderij Peter Paul Rubens, middenpaneel van triptiek van Sint-Ildefonso, 1630-1632",
             "purpose": "identifying",
             "creator": {
                 "id": "pcladvn",
