@@ -15,7 +15,7 @@
             "modified": "2022-04-20T14:03:28.756Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "760<br/>De Heilige Familie<br/>schilderij Lucas Cranach de Oude, 1529, <br/>middenluik van altaarstuk De Heilige Familie, Torgauer Altar"
+            "value": "760<br/>De Heilige Familie<br/>schilderij Lucas Cranach de Oude, 1529<br/>middenluik van altaarstuk De Heilige Familie, Torgauer Altar"
         }
     ],
     "id": "c1bf9858-09b1-448e-be8d-f8775858d5b7.json",
@@ -285,7 +285,7 @@
             "modified": "2022-05-11T11:55:28.427Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "769<br/>San Giorgio<br/>beeldhouwwerk Donatello, 1415/17"
+            "value": "769<br/>San Giorgio<br/>beeldhouwwerk Donatello, 1415-1417"
         }
     ],
     "id": "9ca5e4ca-6a2f-48bc-8085-5f18853a95fb.json",
@@ -315,7 +315,7 @@
             "modified": "2022-04-20T14:08:07.588Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "770<br/>Mephisto und der Schu\u0308ler<br/>silhouettekening Paul Konewka (Gestalten aus \u201cFaust\u201d), 1864, Fr. A. Ackermann\u2019s Kunstverlag, M\u00fcnchen - <br/>fragment prentbriefkaart"
+            "value": "770<br/>Mephisto und der Schu\u0308ler<br/>silhouettekening Paul Konewka (Gestalten aus \u201cFaust\u201d), 1864<br/>prentbriefkaart Fr. A. Ackermann\u2019s Kunstverlag, M\u00fcnchen"
         }
     ],
     "id": "f7d3093c-7224-4be0-b5f4-427faa222b22.json",
@@ -555,7 +555,7 @@
             "modified": "2022-04-20T14:12:40.152Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "778<br/>Orpheus en Euridice (?)"
+            "value": "778<br/>Orpheus en Euridice?"
         }
     ],
     "id": "9ce25591-f3a1-468b-9488-8d5bc8a5ad09.json",
@@ -765,7 +765,7 @@
             "modified": "2022-04-25T06:43:42.333Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "785<br/>\u201cGoethe auf dem Kikelhahn bei Ilmenau\u201d<br/>schilderij Woldemar Friedrich, c. 1831 \u2013 prentbriefkaart, A 1382 / F. A. Ackermann\u2019s Kunstverlag, prentbriefkaart (?) Mu\u0308nchen. Serie 108: Goethe\u2019s Leben (12 Karten)"
+            "value": "785<br/>\u201cGoethe auf dem Kikelhahn bei Ilmenau\u201d<br/>schilderij Woldemar Friedrich, c. 1831<br/>prentbriefkaart F. A. Ackermann\u2019s Kunstverlag Mu\u0308nchen, serie 108: Goethe\u2019s Leben (12 Karten)"
         }
     ],
     "id": "07b9d787-e3a9-42fa-931d-9739280a7ff2.json",
@@ -825,7 +825,7 @@
             "modified": "2022-04-25T06:44:43.941Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "787<br/>Sigmund Freud<br/>portretfoto Max Halberstadt, c. 1921 (detail foto met sigaar)"
+            "value": "787<br/>Sigmund Freud<br/>portretfoto Max Halberstadt, c. 1921<br/>detail foto met sigaar"
         }
     ],
     "id": "e3d3ecfc-a601-4b06-be99-500a82c902ac.json",
@@ -975,7 +975,7 @@
             "modified": "2022-04-25T06:46:15.066Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "792<br/>Kerstengel <br/>kerskaart Pauli Ebner (fragment)"
+            "value": "792<br/>Kerstengel <br/>kerskaart Pauli Ebner, fragment"
         }
     ],
     "id": "c09fa770-bc67-4ea1-96b0-0bf2bf9fdb13.json",
@@ -1065,7 +1065,7 @@
             "modified": "2022-04-25T06:47:00.723Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "795<br/>Saint Louis, roi de France, et un page<br/>schilderij El Greco, 1590-97"
+            "value": "795<br/>De heilige Lodewijk, koning van Frankrijk en een page<br/>schilderij El Greco, 1590-1597"
         }
     ],
     "id": "1846362a-1f6b-4ff5-9f73-9caf04b5242a.json",
@@ -1215,7 +1215,7 @@
             "modified": "2022-04-25T06:48:16.570Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "800<br/>Frederik van Eeden<br/>prentbriefkaart uit 1902/1903, naar gekleurd krijtportret H.J. Haverman, 1899"
+            "value": "800<br/>Frederik van Eeden<br/>naar gekleurd krijtportret H.J. Haverman, 1899<br/>prentbriefkaart 1902-1903, "
         }
     ],
     "id": "312f4b88-ed9a-45d6-bb43-f3cb1e55c821.json",
@@ -1515,7 +1515,7 @@
             "modified": "2022-04-25T06:55:29.889Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "810<br/>Annunciatione<br/>schilderij (naar?) Andrea del Sarto, c. 1513-14"
+            "value": "810<br/>Annunciatione<br/>schilderij (naar?) Andrea del Sarto, c. 1513-1514"
         }
     ],
     "id": "cf5d522d-0a1f-40fb-b415-2bc895a7cf6e.json",
@@ -1635,7 +1635,7 @@
             "modified": "2022-04-25T07:01:43.676Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "814<br/>Inmaculada Concepcio\u0301n<br/>schilderij Bartolome Esteban Murillo, 1658-60"
+            "value": "814<br/>Inmaculada Concepcio\u0301n<br/>schilderij Bartolome Esteban Murillo, 1658-1660"
         }
     ],
     "id": "b9049531-6dbc-46db-bff2-a8b5819da827.json",
@@ -1725,7 +1725,7 @@
             "modified": "2022-04-25T07:03:00.363Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "817<br/>The Little Fruit-Seller<br/>schilderij Bartolome Esteban Murillo, 1670-75"
+            "value": "817<br/>De kleine fruitverkoper<br/>schilderij Bartolome Esteban Murillo, 1670-1675"
         }
     ],
     "id": "312b4b7e-f4ec-4d55-aa00-ffac77864c47.json",
@@ -1755,7 +1755,7 @@
             "modified": "2022-04-25T07:03:17.210Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "818<br/>Haspinger Anno Neun<br/>schilderij Albin Egger-Lienz, 1908-09"
+            "value": "818<br/>Haspinger Anno Neun<br/>schilderij Albin Egger-Lienz, 1908-1909"
         }
     ],
     "id": "fd4ea048-a37e-41e6-a080-96f5b7a7db9d.json",
@@ -1905,7 +1905,7 @@
             "modified": "2022-04-25T07:14:19.768Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "823<br/>Meebrug, Brugge<br/>prentbriefkaart (?)"
+            "value": "823<br/>Meebrug, Brugge<br/>prentbriefkaart?"
         }
     ],
     "id": "b2814b4a-21ae-4e6e-962f-c3a98cac2c4a.json",
@@ -1965,7 +1965,7 @@
             "modified": "2022-04-25T07:15:26.489Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "825<br/>De haven van Antwerpen<br/>illustratie Eugene Boudin, voor 1905"
+            "value": "825<br/>De haven van Antwerpen<br/>illustratie Eugene Boudin, vóór 1905"
         }
     ],
     "id": "64cdbc09-4caf-40fb-9995-8277c991cb96.json",
@@ -2025,7 +2025,7 @@
             "modified": "2022-04-25T07:16:17.830Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "827<br/>The Belfry and Old Cloth Hall, Bruges<br/>schilderij William Callow, 1882 \u2013<br/>prentbriefkaart ?"
+            "value": "827<br/>The Belfry and Old Cloth Hall, Bruges<br/>schilderij William Callow, 1882<br/>prentbriefkaart ?"
         }
     ],
     "id": "51dd9e56-8763-44f7-8623-4b2c4f8921d4.json",
@@ -2145,7 +2145,7 @@
             "modified": "2022-04-25T07:17:01.513Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "831<br/>Maksim Gorki<br/>tekening/ets (?) naar foto"
+            "value": "831<br/>Maksim Gorki<br/>tekening/ets? naar foto"
         }
     ],
     "id": "7df1dd14-841b-4f8d-9eb7-83dda3082168.json",
@@ -2205,7 +2205,7 @@
             "modified": "2022-04-25T07:18:20.140Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "833<br/>Sint-Joris<br/>schilderij Albrecht Du\u0308rer, c. 1500,<br/>linkerluik binnengedeelte triptiek Paumgarten Altar (Katharinen, Nuremberg) [= 916]"
+            "value": "833<br/>Sint-Joris<br/>schilderij Albrecht Du\u0308rer, c. 1500<br/>linkerluik binnengedeelte triptiek Paumgarten Altar, Nuremberg) [= 916]"
         }
     ],
     "id": "dd9c3261-1922-452d-8acf-f63d993f8902.json",
@@ -2355,7 +2355,7 @@
             "modified": "2022-04-25T07:19:02.646Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "838<br/>Trionfo di Venezia<br/>fresco Paolo Veronese, 1585, Sala del Maggior Consiglio, Palazzo Ducale, Venetie\u0308"
+            "value": "838<br/>De triomf van Venetie\u0308<br/>fresco Paolo Veronese, 1585<br/>Sala del Maggior Consiglio, Palazzo Ducale, Venetie\u0308"
         }
     ],
     "id": "abe96092-05eb-48d3-96ac-574b76dfb72b.json",
@@ -2385,7 +2385,7 @@
             "modified": "2022-04-25T07:19:38.579Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "839<br/>Sacra Conversazione<br/>schilderij Sebastiano Luciana (Sebastiano del Piombo), 1509 (detail)"
+            "value": "839<br/>Sacra Conversazione<br/>schilderij Sebastiano Luciana (Sebastiano del Piombo), 1509, detail"
         }
     ],
     "id": "8ae501b7-cb4c-4528-b8f0-0f4dc2423dd4.json",
