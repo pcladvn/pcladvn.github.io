@@ -45,7 +45,7 @@
             "modified": "2022-04-14T13:42:09.696Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "210<br/>\"The Golden Kyoung, Mandalay, Burmah\u201d<br/>prentbriefkaart (Oilette)"
+            "value": "210<br/>\"The Golden Kyoung, Mandalay, Burmah\u201d<br/>prentbriefkaart Tuck & Sons, Oilette"
         }
     ],
     "id": "06925c68-fdea-4218-b0a5-ca52ce287900.json",
@@ -135,7 +135,7 @@
             "modified": "2022-04-14T13:42:42.117Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "213<br/>Malle Babbe<br/>schilderij Frans Hals, 1633-35"
+            "value": "213<br/>Malle Babbe<br/>schilderij Frans Hals, 1633-1635"
         }
     ],
     "id": "d3437bcc-e909-4be7-96e8-2e3a5075c86b.json",
@@ -465,7 +465,7 @@
             "modified": "2022-04-14T13:45:01.407Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "224<br/>De vechtende Temaraire<br/>schilderij William Turner, 1838-39"
+            "value": "224<br/>De vechtende Temaraire<br/>schilderij William Turner, 1838-1839"
         }
     ],
     "id": "449fc00e-43f9-4002-8023-0121f25fa0a0.json",
@@ -645,7 +645,7 @@
             "modified": "2022-04-14T13:47:06.995Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "230<br/>Musicerende engelen<br/>rechterpaneel van polyptiek De Aanbidding van het Lam Gods, Jan en Hubert Van Eyck, 1432"
+            "value": "230<br/>Musicerende engelen<br/>schilderij Jan en Hubert Van Eyck, 1432<br/>rechterpaneel van polyptiek De Aanbidding van het Lam Gods Van Eyck"
         }
     ],
     "id": "e7233563-d312-4438-91ca-0956249cdb10.json",
@@ -705,7 +705,7 @@
             "modified": "2022-04-14T13:47:19.434Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "232<br/>Elisabeth van Wied, Koningin Elisabeth van Roemeni\u00eb<br/>Foto"
+            "value": "232<br/>Elisabeth van Wied, Koningin Elisabeth van Roemeni\u00eb<br/>foto"
         }
     ],
     "id": "a36d4cf1-1940-4aea-be39-0f4118b3ef41.json",
@@ -735,7 +735,7 @@
             "modified": "2022-06-08T16:01:19.156Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "233<br/>Ceders van Libanon<br/>schilderij Friedrich Perlberg \u2013 <br/>prentbriefkaart"
+            "value": "233<br/>Ceders van Libanon<br/>schilderij Friedrich Perlberg<br/>prentbriefkaart"
         }
     ],
     "id": "74ce849a-8156-4d83-b2dc-69f343660832.json",
@@ -765,7 +765,7 @@
             "modified": "2022-06-08T16:08:30.704Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "234<br/>Franz Schubert<br/>schilderij Hermann Torggler -<br/>prentbriefkaart F.A. Ackermanns Kunstverlag, serie 160 (12 Komponisten)"
+            "value": "234<br/>Franz Schubert<br/>schilderij Hermann Torgglerprentbriefkaart F.A. Ackermanns Kunstverlag, serie 160 (12 Komponisten)"
         }
     ],
     "id": "6e5b75ff-967a-4320-b739-50b4d5ec40a8.json",
@@ -1005,7 +1005,7 @@
             "modified": "2022-04-14T13:49:49.682Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "242<br/>Isenheimer Altar<br/>triptiek Matthias Gru\u0308newald, c. 1510-15"
+            "value": "242<br/>Isenheimer Altar<br/>triptiek Matthias Gru\u0308newald, c. 1510-1515"
         }
     ],
     "id": "e1f200c8-026e-48de-9456-e563d3ab2560.json",
@@ -1155,7 +1155,7 @@
             "modified": "2022-04-14T13:50:12.534Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "247<br/>Christus aan het kruis<br/>schilderij Peter Paul Rubens, c. 281 1613"
+            "value": "247<br/>Christus aan het kruis<br/>schilderij Peter Paul Rubens, c. 1613"
         }
     ],
     "id": "20bd1cfc-e6c2-4846-9673-e866cde1d072.json",
@@ -1455,7 +1455,7 @@
             "modified": "2022-06-08T16:19:44.168Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "257<br/>\u201cBe patriotic and reduce your dress bill to a minimum. [\u2013 Patriots]\u201d<br/>Prentbriefkaart Morgan, Tuck & Sons, \u201cOilette\u201d n\u00b0 8497"
+            "value": "257<br/>\u201cBe patriotic and reduce your dress bill to a minimum.\u201d<br/>Prentbriefkaart Tuck & Sons, Oilette, n\u00b0 8497"
         }
     ],
     "id": "4c28e353-3f0a-47bd-ab06-3dbb80e6002f.json",
@@ -1485,7 +1485,7 @@
             "modified": "2022-04-14T13:54:40.461Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "258<br/>Musicerende engel<br/>reli\u00ebf Donatello in altaar, 1447-50<br/>Basilica di Sant'Antonio, Padua"
+            "value": "258<br/>Musicerende engel<br/>reli\u00ebf Donatello in altaar, 1447-1450<br/>Basilica di Sant'Antonio, Padua"
         }
     ],
     "id": "95c07e9a-ca4a-406c-986e-195098493e8c.json",
@@ -1665,7 +1665,7 @@
             "modified": "2022-06-08T16:37:10.752Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "264<br/>\u201cPatriots\u201d<br/>onderkant van prentbriefkaart \u201cBe patriotic and reduce your dress bill to a minimum. [\u2013 Patriots]\u201d \u2013 zie afbeelding 257"
+            "value": "264<br/>\u201cPatriots\u201d<br/>onderkant van prentbriefkaart \u201cBe patriotic and reduce your dress bill to a minimum.\u201d <br/>zie afbeelding 257"
         }
     ],
     "id": "318f9ec9-7cfd-4675-a47a-17ca0cca26ac.json",
@@ -1725,7 +1725,7 @@
             "modified": "2022-04-14T13:56:43.775Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "266<br/>Jan Breydel en Pieter De Coninck<br/>beeldhouwwerk Paul de Vigne, 1887 \u2013 <br/>prentbriefkaart (?)"
+            "value": "266<br/>Jan Breydel en Pieter De Coninck<br/>beeldhouwwerk Paul de Vigne, 1887<br/>prentbriefkaart (?)"
         }
     ],
     "id": "2a134a27-78b3-4b9b-b892-db7eb87ad069.json",
@@ -1785,7 +1785,7 @@
             "modified": "2022-04-14T13:57:08.835Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "268<br/>Luitspelende engel<br/>fresco Melozzo da Forli\u0300, c. 1480, oorspronkelijk in SS. Apostoli, Rome"
+            "value": "268<br/>Luitspelende engel<br/>fresco Melozzo da Forli\u0300, c. 1480<br/>oorspronkelijk in SS. Apostoli, Rome"
         }
     ],
     "id": "5d721f4e-aee9-446c-ad5b-b22d9cd4d0ad.json",
@@ -1815,7 +1815,7 @@
             "modified": "2022-04-14T13:57:26.468Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "269<br/>Der Falkensteiner Ritt<br/>schilderij Moritz von Schwind, 1843/44"
+            "value": "269<br/>Der Falkensteiner Ritt<br/>schilderij Moritz von Schwind, 1843-1844"
         }
     ],
     "id": "e9a10821-1bb5-4d83-b9ee-ebdd324fc6e0.json",
@@ -1875,7 +1875,7 @@
             "modified": "2022-04-14T13:57:50.501Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "271<br/>De gebroeders Van Eyck<br/>monument Valentin Vaerwyck & Geo Verbanck, 1913"
+            "value": "271<br/>De gebroeders Van Eyck<br/>monument Valentin Vaerwyck en Geo Verbanck, 1913"
         }
     ],
     "id": "b2125a6f-6ea4-4d28-8006-fddc6f498aa6.json",
@@ -1905,7 +1905,7 @@
             "modified": "2022-04-14T13:58:04.883Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "272<br/>Vrouwenhoofd, omhuld met klimop<br/>Studie voor het schilderij \"Banket van Plato\" (1873), Anselm Feuerbach"
+            "value": "272<br/>Vrouwenhoofd, omhuld met klimop<br/>studie voor het schilderij \"Banket van Plato\" (1873), Anselm Feuerbach"
         }
     ],
     "id": "358917cd-6aa2-4149-8d9b-ab63e943f1af.json",
@@ -1935,7 +1935,7 @@
             "modified": "2022-04-14T13:58:21.375Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "273<br/>Prima messa di Don Francesco Rossi<br/>schilderij, 1931, Basilica di Sant\u2019Eufemia, Milano \u2013 prentbriefkaart"
+            "value": "273<br/>Prima messa di Don Francesco Rossi<br/>schilderij, 1931<br/>Basilica di Sant\u2019Eufemia, Milano<br/>prentbriefkaart"
         }
     ],
     "id": "5c72960b-1a23-4a2b-b2e1-8719ffaad6cb.json",
@@ -2385,7 +2385,7 @@
             "modified": "2022-04-14T14:02:44.604Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "288<br/>[Confessionnal dans l\u2019Eglise d\u2019Alveringhem \u2013 1699] prentbriefkaart"
+            "value": "288<br/>[Confessionnal dans l\u2019Eglise d\u2019Alveringhem \u2013 1699]<br/>prentbriefkaart"
         }
     ],
     "id": "8f156345-d41a-4ffe-be42-e910ac6e6e87.json",
@@ -2415,7 +2415,7 @@
             "modified": "2022-04-14T14:02:53.221Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "289<br/>Het bruidsmeisje<br/>schilderij Carl Larsson, c. 1908/10"
+            "value": "289<br/>Het bruidsmeisje<br/>schilderij Carl Larsson, c. 1908-1910"
         }
     ],
     "id": "0f68e110-26a8-40b4-aff2-b8feb2a6ad15.json",
@@ -2595,7 +2595,7 @@
             "modified": "2022-04-14T14:04:21.645Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "295<br/>Portret van Hieronymus<br/>Holzschuher<br/>schilderij Albrecht Du\u0308rer, 1526"
+            "value": "295<br/>Portret van Hieronymus Holzschuher<br/>schilderij Albrecht Du\u0308rer, 1526"
         }
     ],
     "id": "ec7211a8-6c9e-4f2c-9001-f047cf97058d.json",
