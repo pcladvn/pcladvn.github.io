@@ -75,7 +75,7 @@
             "modified": "2022-04-14T14:10:21.646Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "303<br/>De hemelvaart van Maria<br/>schilderij Titiaan, 1516-18 (detail)"
+            "value": "303<br/>De hemelvaart van Maria, detail<br/>schilderij Titiaan, 1516-1518"
         }
     ],
     "id": "3b64f850-9973-4b14-ac50-2883395f0ec7.json",
@@ -285,7 +285,7 @@
             "modified": "2022-04-14T14:12:49.431Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "310<br/>Franz Liszt<br/>schilderij Hermann Torggler, [1907?] \u2013 prentbriefkaart F.A. Ackermanns Kunstverlag, serie 160 (12 Komponisten)"
+            "value": "310<br/>Franz Liszt<br/>schilderij Hermann Torggler, [1907?]<br/>prentbriefkaart F.A. Ackermanns Kunstverlag, serie 160 (12 Komponisten)"
         }
     ],
     "id": "349eaa06-91cd-44a0-bcfe-e871046bdfbd.json",
@@ -345,7 +345,7 @@
             "modified": "2022-04-14T14:13:13.743Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "312<br/>Christ\u2019s Triumphal Entry Into Jerusalem<br/>schilderij Edward Burne-Jones"
+            "value": "312<br/>De triomfantelijke intrede van Christus in Jeruzalem<br/>schilderij Edward Burne-Jones"
         }
     ],
     "id": "db308358-3a57-4f7f-a6ca-3be535b73439.json",
@@ -375,7 +375,7 @@
             "modified": "2022-04-14T14:13:32.290Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "313<br/>Mona Lisa (La Gioconda)<br/>schilderij Leonardo da Vinci, 1503-06"
+            "value": "313<br/>Mona Lisa<br/>schilderij Leonardo da Vinci, 1503-06"
         }
     ],
     "id": "fb62a289-87b2-4922-b1f7-a7f58e083fef.json",
@@ -405,7 +405,7 @@
             "modified": "2022-04-14T14:13:42.229Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "314<br/>De profeet Jeremiah<br/>fresco Michelangelo, 1508-12, <br/>Sixtijnse Kapel, plafond, Rome"
+            "value": "314<br/>De profeet Jeremiah<br/>fresco Michelangelo, 1508-12<br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "25f8ed2c-a1a8-4557-a308-a8ca988b14a5.json",
@@ -435,7 +435,7 @@
             "modified": "2022-04-14T14:13:58.352Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "315<br/>The Banks of the Nile, Abu Simbel<br/>schilderij Ella du Cane, c. 1913 \u2013 prentbriefkaart"
+            "value": "315<br/>The Banks of the Nile, Abu Simbel<br/>schilderij Ella du Cane, c. 1913<br/>prentbriefkaart"
         }
     ],
     "id": "3022e52b-25ed-4b3e-ba27-951ab242fba2.json",
@@ -495,7 +495,7 @@
             "modified": "2022-04-14T14:14:38.823Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "317<br/>Cherubini (Putti)<br/>schilderij Raffaello Sanzio (Rafael), c. 1513-14 \u2013 <br/>detail van Madonna Sistina"
+            "value": "317<br/>Cherubini (Putti)<br/>schilderij Raffaello Sanzio (Rafael), c. 1513-1514<br/>detail van Madonna Sistina"
         }
     ],
     "id": "6f44ac35-564f-4d78-936a-2b4229f41616.json",
@@ -825,7 +825,7 @@
             "modified": "2022-04-14T14:48:09.006Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "328<br/>Portret van een onbekende vrouw (mogelijks Beatrice d'Este)<br/>schilderij naar Giovanni Ambrogio de Predis, voor 1508"
+            "value": "328<br/>Portret van een onbekende vrouw (mogelijks Beatrice d'Este)<br/>schilderij naar Giovanni Ambrogio de Predis, vóór 1508"
         }
     ],
     "id": "16d20e86-3fe8-4902-994e-b76c292e1cd3.json",
@@ -885,7 +885,7 @@
             "modified": "2022-04-14T14:50:01.361Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "330<br/>Stadhuis Leuven<br/>schilderij Samuel Prout, [1833] \u2013 prentbriefkaart \u201cHotel de ville de Louvain \u2013 d\u2019apres S. Prout\u201d"
+            "value": "330<br/>Stadhuis Leuven<br/>schilderij Samuel Prout, [1833]<br/>prentbriefkaart \u201cHotel de ville de Louvain \u2013 d\u2019apres S. Prout\u201d"
         }
     ],
     "id": "63f9410c-7461-4c84-8105-f3ad05cac25f.json",
@@ -1065,7 +1065,7 @@
             "modified": "2022-04-14T14:55:02.472Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "337<br/>Christus en Johannes als kinderen en twee engelen schilderij Peter Paul Rubens, 1615-20"
+            "value": "337<br/>Christus en Johannes als kinderen en twee engelen<br/>schilderij Peter Paul Rubens, 1615-1620"
         }
     ],
     "id": "28036423-943e-4a78-bf1f-1b5e07eb07b4.json",
@@ -1365,7 +1365,7 @@
             "modified": "2022-04-14T14:58:52.594Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "347<br/>Boer met hooiwagen op landweg<br/>schilderij Julius Jacobus van de Sander Bakhuyzen"
+            "value": "347<br/>Boer met hooiwagen op landweg<br/>schilderij Julius Jacobus van de Sande Bakhuyzen"
         }
     ],
     "id": "f70f904e-9f7b-4d66-9e02-ee184e877363.json",
@@ -1755,7 +1755,7 @@
             "modified": "2022-04-14T15:01:54.463Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "360<br/>CampagnaRomana<br/>schilderij R. Raimondi \u2013 <br/>prentbriefkaart"
+            "value": "360<br/>CampagnaRomana<br/>schilderij R. Raimondi<br/>prentbriefkaart"
         }
     ],
     "id": "d7db11d3-69a3-43f3-9b36-e7436b89a1a4.json",
@@ -1935,7 +1935,7 @@
             "modified": "2022-04-14T15:04:16.252Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "366<br/>InnocentiusX<br/>schilderij Diego Vela\u0301zquez, 1655"
+            "value": "366<br/>Innocentius X<br/>schilderij Diego Vela\u0301zquez, 1655"
         }
     ],
     "id": "41071cad-0fc6-4e26-a200-f72e94e6fbab.json",
@@ -1965,7 +1965,7 @@
             "modified": "2022-04-14T15:04:29.759Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "367<br/>Spotprent Joseph Chamberlain (?) <br/>Bijschrift \"\"Sir Joe Chamberlain, England's way through history\"\" en \"\"Thou careless, awake! Thou peacemaker, fight! Stand, England, for honour,  and God guard the Right!\"\" <br/>1e strofe uit \"\"Wake up, England\"\" van Robert Bridges, Poems of the Great War\""
+            "value": "367<br/>Spotprent Joseph Chamberlain (?) <br/>Bijschrift \"\"Sir Joe Chamberlain, England's way through history\"\" en \"\"Thou careless, awake! Thou peacemaker, fight! Stand, England, for honour, and God guard the Right!\"\" <br/>1ste strofe uit \"\"Wake up, England\"\" van Robert Bridges, Poems of the Great War\""
         }
     ],
     "id": "8a405f83-93ac-4872-bd6a-b84f773a6f4c.json",
@@ -1995,7 +1995,7 @@
             "modified": "2022-04-14T15:04:47.041Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "368<br/>Siegfried Wagner<br/>karikatuur \u2013 prentbriefkaart"
+            "value": "368<br/>Siegfried Wagner<br/>karikatuur<br/>prentbriefkaart"
         }
     ],
     "id": "8be843de-016f-48e9-8c5b-811956d20fdd.json",
@@ -2085,7 +2085,7 @@
             "modified": "2022-04-14T15:05:21.566Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "371<br/>De spinsters (De fabel van Arachne)<br/>schilderij Diego Vela\u0301zquez, c. 1644-48"
+            "value": "371<br/>De spinsters (De fabel van Arachne)<br/>schilderij Diego Vela\u0301zquez, c. 1644-1648"
         }
     ],
     "id": "06b7f893-4fea-4114-a7b4-4fa66b3666ad.json",
@@ -2145,7 +2145,7 @@
             "modified": "2022-04-14T15:06:10.711Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "373<br/>David<br/>beeldhouwwerk Michelangelo, 1501-4<br/>kopie op Piazza Michelangelo, Firenze \u2013 <br/>prentbriefkaart"
+            "value": "373<br/>David<br/>beeldhouwwerk Michelangelo, 1501-1504<br/>kopie op Piazza Michelangelo, Firenze<br/>prentbriefkaart"
         }
     ],
     "id": "856f830d-7bec-43c5-bcbd-63162f08915a.json",
@@ -2175,7 +2175,7 @@
             "modified": "2022-04-14T15:06:23.614Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "374<br/>[PontiusPilatus]<br/>prentbriefkaart Oberammergau Passionsspiele"
+            "value": "374<br/>[PontiusPilatus]<br/>prentbriefkaart Oberammergauer Passionsspiele"
         }
     ],
     "id": "8db50789-6af9-4b53-bb9d-01a99ccbe9b9.json",
@@ -2265,7 +2265,7 @@
             "modified": "2022-04-14T15:06:50.298Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "377<br/>L\u2019exe\u0301cution du doge Marino Faliero<br/>schilderij Euge\u0300ne Delacroix, 1826- 7"
+            "value": "377<br/>L\u2019exe\u0301cution du doge Marino Faliero<br/>schilderij Euge\u0300ne Delacroix, 1826-1827"
         }
     ],
     "id": "bb015feb-77b8-4be6-a3fd-4cb08e6159ef.json",
@@ -2535,7 +2535,7 @@
             "modified": "2022-04-14T15:09:44.432Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "386<br/>Restaurant a\u0300 l\u2019exposition<br/>universelle de Paris<br/>schilderij Adolph von Menzel, 1867"
+            "value": "386<br/>Restaurant a\u0300 l\u2019exposition universelle de Paris<br/>schilderij Adolph von Menzel, 1867"
         }
     ],
     "id": "720fd6fa-e424-4598-9e44-c85113edea99.json",
@@ -2595,7 +2595,7 @@
             "modified": "2022-04-14T15:12:07.424Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "388<br/>God schept Adam<br/>fresco Michelangelo, 1508-12, Sixtijnse Kapel, plafond, Rome (fragment)"
+            "value": "388<br/>God schept Adam<br/>fresco Michelangelo, 1508-12<br/>Sixtijnse Kapel, plafond, Rome"
         }
     ],
     "id": "93281278-e046-4fdf-95a9-5440d1bf0164.json",
@@ -2655,7 +2655,7 @@
             "modified": "2022-04-14T15:12:27.001Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "390<br/>Maagd met kind<br/>schilderij Hans Memling ? \u2013 middenluik triptiek"
+            "value": "390<br/>Maagd met kind<br/>schilderij Hans Memling?<br/>middenluik triptiek"
         }
     ],
     "id": "12eb09f3-a931-4c61-95a6-3a0b7e09813a.json",
