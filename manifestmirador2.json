@@ -73,7 +73,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://pcladvn.github.io/testwordR1.json",
+        "@id": "https://pcladvn.github.io/annotatiesR1nieuwelijnen.json",
         "@type": "sc:AnnotationList",
         "label": "My fantastic annotations"
     }
@@ -130,7 +130,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://pcladvn.github.io/annonatate/annotations/ec3f0cf7-9bd2-49cf-831c-e7cddaead9f6-list.json",
+        "@id": "https://pcladvn.github.io/annotatiesR2nieuwelijnen.json",
         "@type": "sc:AnnotationList",
         "label": "My fantastic annotations"
     }
@@ -187,7 +187,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://pcladvn.github.io/annotatiesR3b.json",
+        "@id": "https://pcladvn.github.io/annotatiesR3nieuwelijnen.json",
         "@type": "sc:AnnotationList",
         "label": "My fantastic annotations"
     }
@@ -244,7 +244,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://pcladvn.github.io/annonatate/annotations/49ab30c4-b83d-41a2-9edc-a772f8086600-list.json",
+        "@id": "https://pcladvn.github.io/annotatiesR4nieuwelijnen.json",
         "@type": "sc:AnnotationList",
         "label": "My fantastic annotations"
     }
@@ -301,7 +301,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "https://pcladvn.github.io/annonatate/annotations/90b6c3e5-5c5c-4131-8ea3-a9e8d6ec92e9-list.json",
+        "@id": "https://pcladvn.github.io/annotatiesR5nieuwelijnen.json",
         "@type": "sc:AnnotationList",
         "label": "My fantastic annotations"
     }
