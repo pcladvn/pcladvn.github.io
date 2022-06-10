@@ -1,5 +1,9 @@
 
 {
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+"id": "https://pcladvn.github.io/annonatate/annotations/ccd284e7-ed5a-409e-887d-1b56115d4059-list",
+"type": "AnnotationPage",
+"items": [{
     "type": "Annotation",
     "body": [
         {
@@ -120,10 +124,6 @@
     },
     "type": "Annotation"
 },{
-    "@context": "http://iiif.io/api/presentation/3/context.json",
-"id": "https://pcladvn.github.io/annonatate/annotations/ccd284e7-ed5a-409e-887d-1b56115d4059-list",
-"type": "AnnotationPage",
-"items": [{
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
