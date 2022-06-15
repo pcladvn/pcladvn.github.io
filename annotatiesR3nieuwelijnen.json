@@ -255,7 +255,7 @@
             "modified": "2022-06-08T15:55:28.043Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "217<br/>Lord Byron<br/>schilderij Fritz Rumpf<br/>prentbriefkaart GG & Co, n\u00b05038"
+            "value": "217<br/>Lord Byron<br/>schilderij Fritz Rumpf<br/>prentbriefkaart GG & Co, n\u00b0 5038"
         }
     ],
     "id": "ec173d59-90e8-4ce6-8513-9b17ba7e5c17.json",
@@ -765,7 +765,7 @@
             "modified": "2022-06-08T16:08:30.704Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "234<br/>Franz Schubert<br/>schilderij Hermann Torgglerprentbriefkaart F.A. Ackermanns Kunstverlag, serie 160 (12 Komponisten)"
+            "value": "234<br/>Franz Schubert<br/>schilderij Hermann Torggler<br/>prentbriefkaart F.A. Ackermanns Kunstverlag, serie 160 (12 Komponisten)"
         }
     ],
     "id": "6e5b75ff-967a-4320-b739-50b4d5ec40a8.json",
@@ -1335,7 +1335,7 @@
             "modified": "2022-04-14T13:52:37.906Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "253<br/>Infanta Margarita in roze jurk<br/>schilderij Diego Vela\u0301zquez, c. 1654-55"
+            "value": "253<br/>Infanta Margarita in roze jurk<br/>schilderij Diego Vela\u0301zquez, c. 1654-1655"
         }
     ],
     "id": "c9cf9929-1494-44a6-8315-81e0a59a86a4.json",
