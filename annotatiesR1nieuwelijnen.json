@@ -615,7 +615,7 @@
             "modified": "2022-04-14T11:04:02.056Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "21<br/>De boot van Dante (La Barque de Dante ou Dante et Virgile aux enfers)<br/>schilderij Euge\u0300ne Delacroix, 1822"
+            "value": "21<br/>De boot van Dante<br/>schilderij Euge\u0300ne Delacroix, 1822"
         }
     ],
     "id": "4cdcb4c7-6754-41f3-88f2-749cd0729f38.json",
@@ -765,7 +765,7 @@
             "modified": "2022-04-14T11:05:23.587Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "26<br/>Sint-Christoffel<br/>schilderij Dirk Bouts, rechterluik van triptiek De Parel van Brabant, 1460-65"
+            "value": "26<br/>Sint-Christoffel<br/>schilderij Dirk Bouts, rechterluik van triptiek De Parel van Brabant, 1460-1465"
         }
     ],
     "id": "63d0fcdf-9292-4f76-9764-96bf7e605d8b.json",
@@ -1155,7 +1155,7 @@
             "modified": "2022-04-14T11:24:13.624Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "39<br/>Charles Baudelaire<br/>gravure Pierre-Eug\u00e8ne Vibert, voor 1920<br/>naar foto \u00c9tienne Carjat, 1863"
+            "value": "39<br/>Charles Baudelaire<br/>gravure Pierre-Eug\u00e8ne Vibert, vóór 1920<br/>naar foto \u00c9tienne Carjat, 1863"
         }
     ],
     "id": "ed940f26-5330-4159-987d-f24242dde42e.json",
@@ -1215,7 +1215,7 @@
             "modified": "2022-04-14T11:24:57.386Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "41<br/>De vrouwen bij het graf van Christus<br/>fresco Fra Angelico, 1451-52<br/>Santissima Annunziata, Firenze"
+            "value": "41<br/>De vrouwen bij het graf van Christus<br/>fresco Fra Angelico, 1451-1452<br/>Santissima Annunziata, Firenze"
         }
     ],
     "id": "4c4d10fe-d96e-42ae-a9eb-2585e88d8830.json",
@@ -1665,7 +1665,7 @@
             "modified": "2022-06-08T13:29:07.911Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "56<br/>De geboorte van Christus<br/>schilderij Matthias Gru\u0308newald, c. 1510-15 <br/>Isenheimer Altar"
+            "value": "56<br/>De geboorte van Christus<br/>schilderij Matthias Gru\u0308newald, c. 1510-1515 <br/>Isenheimer Altar"
         }
     ],
     "id": "0b26c4ab-1d63-40d7-9f0b-b1c78846b82a.json",
@@ -2325,7 +2325,7 @@
             "modified": "2022-04-14T11:34:52.334Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "78<br/>Annunciazione<br/>schilderij Fra Angelico, c. 1438-45, <br/>San Marcoklooster, cel 3, Firenze"
+            "value": "78<br/>Annunciazione<br/>schilderij Fra Angelico, c. 1438-1445, <br/>San Marcoklooster, cel 3, Firenze"
         }
     ],
     "id": "63dd652a-eb65-434d-9aea-93efc764c117.json",
